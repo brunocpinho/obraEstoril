@@ -2,7 +2,6 @@
 
 ## Ações e Pendências Críticas
 - [ ] **Projetos (REVISÃO URGENTE DE INTERIORES):** Faltam pontos cruciais nos projetos Elétrico/Hidráulico/Forro. Solicitar revisão IMEDIATA para incluir:
-  - Tomadas extras 20A nos banheiros (para secadores) e previsão para espelho/toalheiro térmico.
   - Pontos de rede (RJ45) no forro para roteadores Wi-Fi (Access Points) e tubulação para câmeras (CFTV) externas.
   - Pontos elétricos para fita de LED em toda a marcenaria (closets, painel, cozinha).
   - Ponto de água para geladeira/cervejeira e filtro na **Área Gourmet**.
