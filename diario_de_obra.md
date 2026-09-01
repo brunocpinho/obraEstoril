@@ -1,6 +1,6 @@
 # Diário de Obra - Estoril
 
-*Este documento registrará o histórico cronológico da obra, incluindo avanços físicos, financeiro audidado e fatos relevantes.*
+*Este documento registrará o histórico cronológico da obra, incluindo avanços físicos, financeiro auditado e fatos relevantes.*
 
 ## Março e Abril 2026 (Setup e Aprovações)
 - **Atividades:** Fase administrativa. Compra e instalação da Placa de Obra e do Cavalete Provisório da Copasa.
@@ -28,7 +28,7 @@
 ## Setembro 2026 (Superestrutura)
 
 ### 01/09/2026
-- **Atividades Iniciais:** Leitura do Orçamento Analítico (R$ 2.133.521,88) e do Relatório Mensal. O avanço físico geral foi cravado em 7%, aderente ao cronograma.
+- **Atividades Iniciais:** Leitura do Orçamento Analítico (R$ 2.422.178,51, incluindo 12% da GLN) e do Relatório Mensal. O avanço físico geral foi cravado em 7%, aderente ao cronograma.
 - **Auditoria Financeira:** Validação cruzada das Ordens de Compra e Fechamentos Financeiros passados. O custo direto executivo da infraestrutura (terraplenagem + fundação, sem taxas) ficou em cerca de R$ 145.000 a R$ 155.000.
 - **Auditoria de Cronograma:** Laje pré-fabricada do térreo recebida no canteiro. A grande concretagem da laje e vigas do térreo está oficialmente programada para dia 16/09.
 - **Pendências Mapeadas:** Fechar contrato de mão de obra de Elétrica e Hidráulica e cobrar definição do arrimo da piscina (projetista).

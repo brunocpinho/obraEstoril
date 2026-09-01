@@ -5,7 +5,7 @@
 
 ## Resumo Executivo (Financeiro Auditado)
 - **Avanço Físico:** **7% Realizado** vs 7% Previsto (No prazo).
-- **Avanço Financeiro (Reportado vs Auditado):** A construtora reportou R$ 330.761,79 (13,66%). A auditoria das transferências bancárias validou o custo direto executado na obra em ~R$ 149.668,82 (Abril a Agosto), sendo o restante referente a projetos, taxas e indiretos da fase inicial. O Custo Total Previsto (Base) é de **R$ 2.133.521,88**.
+- **Avanço Financeiro (Reportado vs Auditado):** A construtora reportou R$ 330.761,79 (13,66%). A auditoria das transferências bancárias validou o custo direto executado na obra em ~R$ 149.668,82 (Abril a Agosto), sendo o restante referente a projetos, taxas e indiretos da fase inicial. O Custo Total Previsto (Base + 12% de Adm. GLN) é de **R$ 2.422.178,51**.
 
 ## Simulação de Fluxo de Caixa (Próximo Trimestre)
 - **Setembro/2026:** ~R$ 95.000 (Foco: Concretagem das vigas e lajes do Térreo dia 16/09).
