@@ -17,5 +17,6 @@
 - [x] Fundações (Custo direto estimado auditado: ~R$ 145k a R$ 155k)
 - [ ] Superestrutura (Laje do Térreo programada para 16/09)
 - [ ] Vedações e Instalações (Arrimos e infraestrutura do subsolo programados para 28/09)
+- [ ] **META (Nov/2026):** Fim da Superestrutura (Laje de Cobertura concluída). Expectativa de avanço físico em ~21% e financeiro em ~26%.
 - [ ] Acabamentos
 - [ ] Entrega da Obra
