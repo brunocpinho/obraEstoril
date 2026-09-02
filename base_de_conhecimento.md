@@ -69,7 +69,7 @@
 
 ### Alertas de Usabilidade e Estética (Atenção do Proprietário)
 1. **Claraboia da Suíte Master:** Foco potencial de infiltração. Exigir da construtora manta asfáltica criteriosa no requadro.
-2. **Elevador (Profundidade do Fosso):** Crucial definir a marca/modelo elétrico/hidráulico o quanto antes, pois o fosso necessário varia de 15cm a 1,5m.
+2. **Elevador (Profundidade do Fosso):** Resolvido na execução. A engenharia adotou uma medida conservadora e executou o fosso com aproximadamente 1,00m de profundidade (evidenciado em fotos de Agosto/2026), o que atende a grande maioria dos modelos de elevadores convencionais do mercado.
 3. **Lavabo Gourmet (1,64 m²):** Como o espaço é estreito, recomenda-se que a porta abra para fora ou seja de correr embutida para não colidir com o usuário.
 4. **Pisos Grandes em Box:** O porcelanato 90x90 no piso das Suítes 02 e 03 exigirá ralos lineares invisíveis encostados na parede para garantir as quedas de água corretas sem "recortes" (escamas de peixe) feios nas pedras grandes.
 5. **Manutenção da Fachada:** A madeira natural exigirá reaplicação de verniz/stain anualmente para não acinzentar sob o sol.
