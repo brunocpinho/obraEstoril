@@ -54,3 +54,22 @@
 - **Concretagem:** Visível avanço cronológico. A concretagem saiu do fundo das valas (baldrame) para os primeiros pilares de arranque concretados e desformados, confirmando a transição da fundação para a superestrutura.
 - **Organização:** Canteiro típico de fase bruta, mas com armazenamento ordenado de armaduras e tábuas, refletindo boas práticas de organização.
 - **Validação:** As evidências visuais confirmam 100% o status reportado no Diário de Obras (conclusão da infraestrutura e início das armaduras do térreo).
+
+## 7. Dossiê Arquitetônico e Acabamentos (Revisão Executiva)
+*Com base nos projetos Executivo de Arquitetura e Interiores de Junho/2026:*
+
+### Distribuição e Convivência
+- **Eixo Social (Térreo):** O projeto prioriza integração total. A Sala, Copa e Cozinha formam um corredor contínuo que se conecta à Área Gourmet e à Piscina. Esquadrias de grandes formatos garantem excelente ventilação cruzada e luz natural nesse andar.
+- **Setor Íntimo (Pavimento Superior):** 3 Suítes bem proporcionadas. A Suíte Master destaca-se pelo amplo closet, varanda exclusiva, e uma **Claraboia** que fornece iluminação zenital diretamente sobre a banheira.
+- **Apoio e Serviços:** Depósitos e lavanderia bem segregados para não interferir na dinâmica visual da área social.
+
+### Revestimentos e Acabamentos
+- **Pisos:** O porcelanato **Gales SBE NAT (90x90 da Portinari)** foi eleito para integrar as áreas secas e molhadas da casa. Nas áreas externas (Gourmet/Piscina), optou-se pela versão antiderrapante **Gales SBE HARD**. O subsolo recebeu concreto polido.
+- **Destaques:** A cozinha/lavanderia receberá revestimento texturizado *Khali Zen Gris Matte (10x40)*. A fachada externa combina materiais nobres e sensoriais: **Madeira Natural, Pedra Moledo e Tijolinho**.
+
+### Alertas de Usabilidade e Estética (Atenção do Proprietário)
+1. **Claraboia da Suíte Master:** Foco potencial de infiltração. Exigir da construtora manta asfáltica criteriosa no requadro.
+2. **Elevador (Profundidade do Fosso):** Crucial definir a marca/modelo elétrico/hidráulico o quanto antes, pois o fosso necessário varia de 15cm a 1,5m.
+3. **Lavabo Gourmet (1,64 m²):** Como o espaço é estreito, recomenda-se que a porta abra para fora ou seja de correr embutida para não colidir com o usuário.
+4. **Pisos Grandes em Box:** O porcelanato 90x90 no piso das Suítes 02 e 03 exigirá ralos lineares invisíveis encostados na parede para garantir as quedas de água corretas sem "recortes" (escamas de peixe) feios nas pedras grandes.
+5. **Manutenção da Fachada:** A madeira natural exigirá reaplicação de verniz/stain anualmente para não acinzentar sob o sol.
