@@ -16,12 +16,15 @@
 
 ## Julho 2026 (Fundações - Infraestrutura)
 - **Atividades:** Início da escavação das fundações (trado mecanizado pela Perfura Solo). Descoberta de solo impenetrável/rocha a menos de 2m em 8 furos, gerando a revisão do projeto para sapatas nestes pontos. Compra do primeiro lote massivo de Aço e início da montagem de gaiolas. Embutimento das primeiras tubulações hidráulicas subterrâneas sob as vigas baldrame.
+- **Evidências em Vídeo (04/07):** Registro comprova terraplenagem a todo vapor, com escavações em corte de talude no fundo do lote e acerto do platô de fundação.
 - **Financeiro:** Compras acumuladas para o fechamento da Medição 08, indicando a transição do movimento de terra para a estrutura de concreto.
 
-## Agosto 2026 (Concretagem do Subsolo)
+## Agosto 2026 (Concretagem do Subsolo e Arranque)
 - **Fundações:** Concluída a fôrma, armação e concretagem das vigas e blocos de fundação no subsolo.
-- **Arranques:** Concretados e desformados os pilares de arranque (pilares do subsolo).
-- **Estrutura Térreo:** Iniciada a montagem das armaduras das vigas do pavimento térreo.
+- **Evidências em Vídeo (15/08):** Valas de baldrame abertas com armaduras posicionadas e caixarias prontas. Confirmação visual em campo do **rebaixo do fosso do elevador com profundidade de ~1,00m** e armação em gaiola de aço no centro da edificação.
+- **Arranques e Pilares (29/08):** Concretados e desformados os pilares de arranque (subsolo). Inspeção visual atesta excelente acabamento superficial, cor homogênea e ausência de bicheiras/segregação de brita (validação prática do uso adequado de vibrador de imersão).
+- **Estrutura Térreo (29/08):** Salto de produtividade. Montagem ativa do escoramento com torres metálicas reguláveis e pontaletes de madeira, além das caixarias das vigas do piso térreo. Vigotas treliçadas da laje pré-fabricada recebidas e estocadas organizadamente no canteiro, preparando para a concretagem de 16/09.
+- **Organização e Segurança:** Canteiro limpo e disciplinado para a fase de carpintaria pesada, com madeiramento e aço dispostos em pilhas e passarelas seguras de tábuas sobre valas.
 - **Ocorrências:** Registro de mais furtos no padrão da CEMIG, forçando a contratação definitiva de vigias diurnos e noturnos. Aditivo aprovado para corte de terra lateral da piscina.
 - **Financeiro:** Medição 08 fechada (R$ 87.615,79), consolidando a compra das madeiras de fôrma, locações e a forte mobilização de mão de obra direta para bater a fundação.
 

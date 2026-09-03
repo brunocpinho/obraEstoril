@@ -47,13 +47,23 @@
   - **Conforto:** Alimentação trifásica dedicada para o funcionamento de um **Elevador** e circuitos dedicados de Ar-Condicionado.
   - **Segurança:** Iluminação da piscina em 12V DC.
 
-## 6. Evolução Fotográfica (Insights - Agosto/2026)
-*Análise baseada nas Semanas 08, 09 e 10:*
-- **Estado do terreno:** O solo (terra avermelhada) apresenta grandes movimentações e escavações profundas em níveis variados, com valas abertas para vigas baldrame e cavas para blocos de fundação.
-- **Armaduras e Fôrmas:** Fôrmas de madeira e compensados plastificados utilizados nas caixarias de blocos, vigas baldrame e pilares. Forte presença de armaduras densas (gaiolas) e esperas de pilares devidamente alinhadas.
-- **Concretagem:** Visível avanço cronológico. A concretagem saiu do fundo das valas (baldrame) para os primeiros pilares de arranque concretados e desformados, confirmando a transição da fundação para a superestrutura.
-- **Organização:** Canteiro típico de fase bruta, mas com armazenamento ordenado de armaduras e tábuas, refletindo boas práticas de organização.
-- **Validação:** As evidências visuais confirmam 100% o status reportado no Diário de Obras (conclusão da infraestrutura e início das armaduras do térreo).
+## 6. Evolução Fotográfica e Multimídia (Auditoria de Campo)
+*Análise de Acompanhamento de Obra detalhada extraída dos registros de vídeos e fotos pessoais do proprietário (Julho e Agosto/2026):*
+
+### 1. Evolução Cronológica (Avanço Físico)
+- **Vídeo de 04 de Julho:** O terreno ainda era praticamente um grande buraco. As escavações e a terraplenagem (movimentação de terra) estavam a todo vapor, com o corte reto do barranco ao fundo e acerto do platô inicial.
+- **Vídeo de 15 de Agosto:** A transição para a "obra suja". Vistas todas as valas da fundação abertas, as caixarias de madeira das vigas baldrame e as armaduras dos pilares de arranque já posicionadas.
+- **Vídeo de 29 de Agosto:** Um salto impressionante de produtividade. Os pilares do subsolo já estão 100% concretados e desformados (lisos e curados). O canteiro evoluiu para a etapa de "escoramento": todo o madeiramento (pontaletes amarelos e vigas de madeira) já está sendo erguido para apoiar a laje do térreo. No chão, já é possível ver as "vigotas treliçadas" (as peças de concreto da laje pré-moldada) empilhadas e organizadas, prontas para subir.
+
+### 2. Validação do Fosso do Elevador
+- No vídeo do dia **15/08**, quando a câmera passeia pela fundação, é perfeitamente visível o rebaixo quadrado profundo no centro da obra. Dá para notar que a equipe de armação desceu as gaiolas de aço respeitando o nível inferior, confirmando a cota de ~1,00m negativa. Serviço executado com precisão e pronto para receber a cabine no futuro.
+
+### 3. Avaliação de Qualidade e Organização
+- **Qualidade Visual do Concreto:** Os pilares de arranque (visíveis no dia 29/08) apresentam cor homogênea e ausência total de "bicheiras" (falhas de concretagem onde a brita fica exposta). Isso comprova o uso eficiente de vibrador de imersão (aderente à locação de equipamentos auditada no orçamento).
+- **Limpeza e Segurança do Canteiro:** Considerando a fase crítica de fundação e madeiramento, o canteiro está muito bem organizado. O aço e as madeiras não estão jogados na lama; há estrados, pilhas organizadas e passarelas improvisadas com tábuas seguras sobre as valas.
+
+### 4. Conclusão da Auditoria Multimídia
+Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cronograma executivo reportado em Agosto. A equipe está totalmente focada na montagem do "tabuleiro" (fôrmas e escoramento da laje) para a grande concretagem do pavimento térreo programada para 16/09/2026.
 
 ## 7. Dossiê Arquitetônico e Acabamentos (Revisão Executiva)
 *Com base nos projetos Executivo de Arquitetura e Interiores de Junho/2026:*
