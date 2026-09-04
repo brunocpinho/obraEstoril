@@ -142,19 +142,22 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
    - Risco de recalque diferencial, torção nas vigas V211/V225/V226 e trinca na cuba da piscina. Exigência de inspeção geotécnica nas estacas, execução rigorosa do dreno PEAD 6" envolto em brita 2/geotêxtil e teste de estanqueidade de 72h com impermeabilização flexível bicomponente.
    - **Compatibilização com Acabamento Nobre (Pedra Maldivas Natural 20x20 cm - TAJ):** Com a definição das placas calibradas de 20x20 cm do Serpentinito Durano (ancoragem de 780 kgf certificada pelo IPT), a blindagem contra recalques e trincas da contenção R02 torna-se prioritária para assegurar a perenidade do acabamento e de suas juntas. Exige-se dupla colagem com argamassa AC-III branca para piscinas e teste de estanqueidade de 72h. A inércia térmica da rocha reduzirá os custos de manutenção térmica pelo Trocador de Calor.
 
-### 8.2. Hidrossanitário x Estrutural x Subsolo: Estudo de Viabilidade de Traçado (Em Avaliação)
-1. **Conflito Original de Pé-Direito na Garagem:**
-   - No projeto hidrossanitário preliminar (`MS_PRJ_HID_BRUNO_E_KELLY_R00`), os coletores de esgoto e pluvial suspensos cruzam sob as vigas de transição da garagem (V206/V217 com $h = 60\text{ cm}$, fundo a $-0,66\text{ m}$ / livre de $2,56\text{ m}$). Com o caimento de $1,0\%$ a $1,5\%$ + conexões + braçadeiras, a geratriz inferior dos tubos DN 100/150 desce para **$2,30\text{ m} \text{ a } 2,36\text{ m}$**, colidindo com o forro plano de $2,60\text{ m}$.
-2. **Estudo de Viabilidade Técnica - Duas Opções em Análise:**
-   - **Opção A — Desvio pelo Caixão Perdido / Talude sob o Living (Viabilidade Confirmada):**
-     - *Conceito:* Aproveitar o vazio não habitável sob a laje maciça do Living (`TALUDE DENTRO DO CAIXÃO PERDIDO` conforme prancha 01 do projeto executivo). As prumadas do térreo descem diretamente ao caixão perdido e as tubulações correm ao longo do talude até as caixas de inspeção (`CI`) externas.
-     - *Vantagens:* Teto da garagem 100% desobstruído de tubulações de esgoto; pé-direito livre total garantido em $2,65\text{ m} \text{ a } 2,70\text{ m}$ (e $2,56\text{ m}$ sob vigas); sem caixotes de drywall; manutenção pela `ÁREA TÉCNICA / INSPEÇÃO`.
-     - *Desafios / Exigências:* Exige assentamento de berços/muretas de apoio de concreto no talude para fixar a tubulação, iluminação e ventilação provisórias para os encanadores durante a instalação, e vedação estanque na porta de acesso da área técnica.
-   - **Opção B — Manutenção no Teto da Garagem com Sancas Técnicas Localizadas (Solução de Projeto):**
-     - *Conceito:* Manter a rede suspensa sob a laje da garagem, mas vetar o rebaixo geral do forro para 2,25m. O forro plano fica a 2,70m entre vigas e são construídas **sancas técnicas/caixotes em drywall RU** contornando exclusivamente os tubos e as vigas de 60cm (descendo localmente para 2,30m).
-     - *Vantagens:* Instalação convencional sobre andaimes no piso da garagem, fixação simples com tirantes na laje, visualização direta dos tubos durante testes.
-     - *Desvantagens:* Pé-direito pontual de 2,30m a 2,36m sob os caixotes (limitação parcial para veículos muito altos com bagageiro); teto facetado com caixotes aparentes; manutenção exige alçapões no forro da garagem.
-   - *Status da Decisão:* As duas opções são plenamente viáveis do ponto de vista de engenharia. A definição final da diretriz será deliberada junto ao proprietário antes da contratação da mão de obra de instalações.
+### 8.2. Hidrossanitário x Estrutural x Subsolo: Desmistificação do Pé-Direito da Garagem
+1. **Auditoria Estrutural e Arquitetônica das Cotas Reais:**
+   - **Nível do Piso Acabado da Garagem:** $\text{NA} = -3,22\text{ m}$ ($\text{NO} = -3,30\text{ m}$ com contrapiso de $8\text{ cm}$).
+   - **Nível da Laje do Térreo:** $\text{NO} = -0,06\text{ m}$ ($\text{NA} = \pm 0,00\text{ m}$).
+   - **Vigas Estruturais sobre a Garagem (Prancha 03/14 - `03_Formas_Térreo_R02`):** As vigas de teto da garagem (V201 a V218) possuem seção $19/40$ ($h = 40\text{ cm}$).
+     - Fundo de viga na cota: $-0,06\text{ m} - 0,40\text{ m} = -0,46\text{ m}$.
+     - **Pé-direito livre real sob as vigas estruturais:** $-0,46 - (-3,22) = \mathbf{2,76\text{ m}}$.
+     - **Pé-direito livre sob a laje maciça de 12cm:** $-0,18 - (-3,22) = \mathbf{3,04\text{ m}}$.
+     - **Inexistência de vigas a 2,30m:** Nenhuma viga estrutural desce a 2,30m.
+2. **Traçado Real das Redes Hidrossanitárias (Folha 01/16 - `MS_PRJ_HID_...`):**
+   - O detalhamento isométrico 3D comprova que os tubos de queda verticais dos shafts (TQ-01, TQ-02, TQ-04, AP-03, AP-05) possuem pontos de inspeção a $60\text{ cm}$ e **mergulham diretamente no piso do subsolo**.
+   - Toda a rede horizontal coletora corre **abaixo do contrapiso / enterrada no solo**, interligando as prumadas diretamente às Caixas de Inspeção (`CI`) com tampas no piso e caixas de passagem pluvial (`CP GRELHA`).
+   - **Nenhuma tubulação de esgoto ou pluvial corre suspensa pelo teto da garagem.**
+3. **Conclusão de Forro:**
+   - O forro de gesso verde projetado a $h = 2,60\text{ m}$ (e $2,70\text{ m}$) é **100% contínuo e plano**, passando com $16\text{ cm}$ de folga livre sob o fundo das vigas de $40\text{ cm}$.
+   - O suposto conflito de pé-direito a 2,30m foi um **falso alarme superado**, dispensando qualquer necessidade de sancas, caixotes ou desvios pelo caixão perdido.
 
 ### 8.3. Elétrica x Estrutura x Equipamentos
 1. **Alimentadores Pesados e Conduítes na Laje do Térreo:**

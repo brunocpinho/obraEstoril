@@ -10,7 +10,7 @@
   - **Medição 06 (Agosto/2026 - Consolidada):** **R$ 158.254,30** (Subcontratos: R$ 87.648,21 | Mão de Obra direta: R$ 53.650,28 | Adm GLN 12%: R$ 16.955,82).
   - **Medição 07 (Setembro/2026 - Em Aberto):** **R$ 31.465,63** apropriados em subcontratos (Lote de aço Santa Clara R$ 12.284,77, Madeireira Estrela R$ 8.140,00, locações e caçambas).
   - **Custo Total Previsto (Base + 12% Adm. GLN):** **R$ 2.422.178,51**.
-- **Projetos e Compatibilização:** Auditoria Multidisciplinar Global concluída em 04/09/2026. Mapeadas e mitigadas as principais interferências críticas (veto a furo em viga Ø150mm, sleeves de alimentadores, cambotas de shafts e estudo de viabilidade para rota do subsolo: Caixão Perdido x Sancas na Garagem). Definidos os acabamentos nobres: porcelanato 1,20x1,20m Portinari para a residência e rocha natural **Maldivas Natural 20x20 cm (TAJ Revestimentos)** para a piscina (Serpentinito Durano® certificado IPT, ancoragem de 780 kgf).
+- **Projetos e Compatibilização:** Auditoria Multidisciplinar Global concluída em 04/09/2026. Mapeadas e mitigadas as principais interferências críticas (veto a furo em viga Ø150mm, sleeves de alimentadores e cambotas de shafts). Comprovado que o teto da garagem é 100% livre (vigas a 2,76m, forro a 2,60m e esgoto sob o contrapiso). Definidos os acabamentos nobres: porcelanato 1,20x1,20m Portinari para a residência e rocha natural **Maldivas Natural 20x20 cm (TAJ Revestimentos)** para a piscina (Serpentinito Durano® certificado IPT, ancoragem de 780 kgf).
 
 ## Prazos Críticos Imediatos (Plano Semanal GLN)
 - **04/09/2026 (Hoje):** Fechar contratação da empreitada de Elétrica (Ronaldo Ribeiro - ATV-0011) e Hidráulica (Cléber Oliveira - ATV-0012).

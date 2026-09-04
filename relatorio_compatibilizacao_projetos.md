@@ -16,7 +16,7 @@ A presente auditoria técnica foi realizada mediante cruzamento aprofundado dos 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **CL-01** | **Hidráulico x Estrutural** | 1º Pavimento / Cobertura | **CRÍTICA** | Indicação em projeto hidráulico de furo horizontal Ø150mm em viga sem cálculo, reforço ou previsão estrutural. | **Veto formal à furação.** Desviar tubulação por baixo da viga com carenamento ou redirecionar para shaft vertical. |
 | **CL-02** | **Hidráulico x Estrutural** | Laje do Térreo (Concretagem 16/09) | **CRÍTICA** | Laje 100% maciça de 12cm: furação posterior com martelete rompe armaduras tracionadas. Shaft 15x120cm exige emolduramento prévio. | Locar gabaritos e tubos-camisa (passantes) antes de 16/09; prever armaduras de borda em torno dos shafts maciços. |
-| **CL-03** | **Hidráulico x Estrutural x Garagem** | Teto da Garagem x Caixão Perdido (Subsolo) | **EM ESTUDO** | Risco de conflito de pé-direito (2,30m) por tubulações sob vigas V206/V217 (fundo a 2,56m). | **Viabilidade comparativa apresentada:** Opção A (Caixão Perdido no talude, pé-direito livre a 2,70m) vs. Opção B (Sancas de drywall a 2,30m). Em avaliação pelo proprietário. |
+| **CL-03** | **Hidráulico x Estrutural x Forro** | Teto da Garagem (Subsolo) | **FALSO ALARME SUPERADO** | Hipótese preliminar de tubulações suspensas e vigas descendo a 2,30m no teto da garagem. | **Inexistência de conflito.** Vigas têm h=40cm com fundo a **2,76m** (laje a 3,04m). O forro a 2,60m passa com 16cm de folga sob as vigas. As tubulações descem pelas prumadas verticais e correm **abaixo do contrapiso / no solo** até as CIs, nunca suspensas no teto. |
 | **CL-04** | **Elétrico x Estrutural** | Laje do Térreo / Chegada ao QD2 | **ALTA** | Convergência de mais de 14 eletrodutos sobre a laje maciça de 12 cm; risco de cortina de conduítes e bicheiras estruturais. | Instalar 2 sleeves Ø75/Ø100mm; garantir espaçamento ≥ 50mm entre tubos e lançar circuitos terminais no entreforro. |
 | **CL-05** | **Elétrico x Arquitetura (Interiores)** | Suíte Master (Banheiro) | **ALTA** | Toalheiro térmico na divisória hidro x bacia sem circuito dedicado no QD3 e com risco de choque (Zona 2 da NBR 5410). | Criar Circuito 16 (220V/10A) no QD3 com DR ≤ 30mA e ponto com saída de cabo estanque blindada (IPX4/5). |
 | **CL-06** | **Elétrico x Equipamento** | Subsolo x 1º Pavimento | **ALTA** | Motor do Elevador alocado no QD3 (Superior), embora a Casa de Máquinas esteja no Subsolo ao lado do QD1. | Transferir o circuito trifásico do Elevador diretamente para o **QD1 (Subsolo)**, evitando percurso inútil de 3 andares. |
@@ -49,18 +49,20 @@ A presente auditoria técnica foi realizada mediante cruzamento aprofundado dos 
 - **Vantagem da Laje Maciça:** Sendo a laje L22 maciça de concreto armado, o risco de esmagamento de EPS é eliminado, conferindo rigidez e resistência ao puncionamento muito superiores.
 - **Diretriz:** Construir muretas estruturais de concreto armado alinhadas diretamente sobre as vigas portantes **V413 (14x40), V414 (14x30), V419 (14x40) e V422 (14x30)**, transmitindo as reações dos pés do boiler diretamente aos pilares e evitando flechas diferidas.
 
-### 2.4. Estudo de Viabilidade Técnica: Roteamento Hidrossanitário no Subsolo (Em Avaliação)
-- **Contexto da Demanda:** Avaliação da viabilidade técnica de utilizar o vazio sanitário do **Caixão Perdido / Talude sob o Living** (espaço não habitável sob a cota NO = -0,06m com solo natural em corte entre -1,50m e -3,20m) em contraponto ao traçado preliminar do projeto hidrossanitário pelo teto da garagem.
-- **Análise Comparativa de Viabilidade:**
-  1. **Opção A — Desvio pelo Caixão Perdido / Talude sob o Living:**
-     - *Viabilidade:* Plenamente viável do ponto de vista hidráulico e espacial. As prumadas do Térreo descem direto para o caixão e correm apoiadas em berços/muretas no talude em direção às CIs externas.
-     - *Impacto na Garagem:* Teto 100% livre e limpo de esgoto. Pé-direito total de 2,65m a 2,70m entre vigas e 2,56m sob vigas de 60cm, sem nenhum caixote de drywall. Manutenção restrita à `ÁREA TÉCNICA / INSPEÇÃO`.
-     - *Exigências Executivas:* Assentamento de berços de apoio rígidos sobre o terreno inclinado; ventilação e iluminação provisórias durante a instalação; vedação estanque na porta da área técnica.
-  2. **Opção B — Passagem Suspensa pelo Teto da Garagem com Sancas Técnicas:**
-     - *Viabilidade:* Solução executiva padrão. Forro a 2,70m nos vãos livres com criação de **sancas técnicas/caixotes localizados em drywall RU** a 2,30m exclusivamente sob as vigas de 60cm e tubulações suspensas.
-     - *Impacto na Garagem:* Pé-direito local de 2,30m a 2,36m nos eixos de tubulação; forro escalonado; manutenção via alçapões no teto da garagem.
-     - *Exigências Executivas:* Montagem convencional com andaimes e tirantes na laje, sem necessidade de obras no talude.
-- **Status:** Estudo de viabilidade técnica concluído; aguardando deliberação de diretriz executiva pelo proprietário junto à equipe de obra.
+### 2.4. Desmistificação do Pé-Direito da Garagem e Traçado Real no Subsolo
+- **Auditoria de Cotas Reais dos Projetos:**
+  1. **Nível do Piso da Garagem:** $\text{NA} = -3,22\text{ m}$ ($\text{NO} = -3,30\text{ m}$ com contrapiso de 8cm).
+  2. **Nível da Laje do Térreo:** $\text{NO} = -0,06\text{ m}$ ($\text{NA} = \pm 0,00\text{ m}$).
+  3. **Vigas Estruturais da Garagem (Prancha 03/14 - `Formas_Térreo_R02`):** As vigas sobre a garagem (V201 a V218) possuem seção $19/40$ ($h = 40\text{ cm}$).
+     - Cota de fundo de viga: $-0,06 - 0,40 = -0,46\text{ m}$.
+     - **Pé-direito livre real sob o fundo de vigas:** $-0,46 - (-3,22) = \mathbf{2,76\text{ m}}$.
+     - **Pé-direito livre real sob a laje maciça (12cm):** $-0,18 - (-3,22) = \mathbf{3,04\text{ m}}$.
+     - **Não existe nenhuma viga com fundo a 2,30m.**
+  4. **Traçado Hidrossanitário Real (Folha 01/16 - `PLANTA - ESG - SUBSOLO`):**
+     - O detalhe isométrico 3D comprova que os tubos de queda verticais dos shafts (TQ-01, TQ-02, TQ-04, AP-03, AP-05) possuem pontos de inspeção a $60\text{ cm}$ do piso e **mergulham diretamente no piso**.
+     - Toda a malha coletora horizontal corre **abaixo do contrapiso / enterrada no solo do subsolo** interligando-se a Caixas de Inspeção (`CI`) em alvenaria e base de concreto no piso e caixas de passagem (`CP GRELHA`).
+     - **Nenhuma tubulação de esgoto corre suspensa cruzando o teto da garagem.**
+  5. **Conclusão de Forro:** O forro de gesso verde projetado pelo arquiteto a $h = 2,60\text{ m}$ (e $2,70\text{ m}$ na circulação) é **100% contínuo, plano e desimpedido**, passando $16\text{ cm}$ livre abaixo do fundo das vigas estruturais, sem nenhuma necessidade de sancas, caixotes ou desvios de rota.
 
 ---
 
@@ -76,7 +78,7 @@ A presente auditoria técnica foi realizada mediante cruzamento aprofundado dos 
 | **16/09/2026** | Construtora GLN | **Concretagem das vigas e laje maciça do Térreo com concreto usinado fck 30 MPa e vibração controlada.** | MARCO CRÍTICO |
 | **28/09/2026** | Eletricista | Transferir circuito do Elevador para o QD1 e redimensionar Carregador de Carro Elétrico para cabo 10mm² EPR. | PROGRAMADO |
 | **05/10/2026** | Encanador / Obra | Rasgar alvenaria do Gourmet e instalar pontos de água fria para cervejeira (h=1,20m) e filtro (h=0,55m). | PROGRAMADO |
-| **15/10/2026** | Proprietário / Obra | Deliberar diretriz final de traçado do subsolo (Opção A: Caixão Perdido x Opção B: Sancas na Garagem) para montagem das tubulações. | PROGRAMADO |
+| **15/10/2026** | Encanador / Mestre | Instalar tubulações de esgoto e pluvial do subsolo abaixo do contrapiso / no solo conforme projeto, e assentar caixas de inspeção (CI). | PROGRAMADO |
 | **Fase Cobertura** | Calculista / Obra | Construir muretas de apoio alinhadas sobre as vigas V413, V414 e V422 para as 3 caixas e boiler sobre a laje maciça L22. | PROGRAMADO |
 | **Fase Acabamento** | Pedreiro / Impermeab. | Assentar ralos lineares ocultos colados na parede de fundo dos boxes (pisos 1,20x1,20m) e aplicar teste de estanqueidade de 72 horas. | PROGRAMADO |
 | **Fase Acabamento** | Azulejista / Obra | Assentar rocha natural **Maldivas Natural 20x20 cm (TAJ)** na piscina com dupla colagem em argamassa **AC-III branca**, execução de boleamento in situ em degraus/bordas e rejunte epóxi impermeável anti-fungo. | PROGRAMADO |
