@@ -6,13 +6,17 @@
   - Pontos elétricos para fita de LED em toda a marcenaria (closets, painel, cozinha).
   - Ponto de água para geladeira/cervejeira e filtro na **Área Gourmet**.
   - Corrigir o erro na Varanda Descoberta (projetaram spots de embutir onde não há forro).
-- [ ] **Projetos:** Cobrar a projetista estrutural (Andréia Salaberry) sobre a definição do projeto de fundação e arrimo da piscina (Atividade ATV-0015 bloqueada no cronograma).
-- [ ] **Contratos:** Fechar empreitada de mão de obra de Elétrica (Ronaldo Ribeiro) e Hidráulica (Cléber Oliveira) até o dia 04/09 para não atrasar as instalações do subsolo que iniciam em 28/09.
-- [ ] **Engenharia:** Acompanhar a concretagem das vigas e lajes do térreo (Previsto 16/09).
-- [x] **Financeiro:** Auditoria retrospectiva concluída. Custos das Medições 07 e 08 validados (R$ 45.141,15 e R$ 87.615,79 respectivamente). Coletas de Aço e Ferramental de Setembro/26 aprovadas.
+- [x] **Projetos [CONCLUÍDO 03/09/2026]:** Definição do projeto estrutural de fundação e contenção da piscina entregue pela calculista Andréia Sallaberry na Revisão R02 (Pranchas 03 e 30). Atividade ATV-0015 desbloqueada.
+- [ ] **Contratos [URGENTE - VENCE AMANHÃ 04/09/2026]:** Fechar preço final da empreitada de mão de obra de Elétrica (Ronaldo Damaso Ribeiro - ATV-0011) e Hidráulica (Cléber Oliveira - ATV-0012) para assegurar o início das instalações do subsolo em 28/09.
+- [ ] **Engenharia:** Acompanhar armação e montagem de escoramento para a concretagem das vigas e lajes do térreo (Previsto 16/09/2026 - ATV-0014).
+- [x] **Financeiro e Compras [AUDITADO 03/09/2026]:**
+  - Medição 06 fechada e auditada em R$ 158.254,30 (lajes pré-moldadas Incobráz de R$ 26.800,00 e concreto usinado MG Mix de R$ 13.200,00 validados).
+  - Coletas de Setembro homologadas: Coleta 25 (ferramentas MJS) e Coleta 26 (1.870 kg de aço Santa Clara por R$ 12.284,77 faturados na OC ABK-40).
+  - Medição 07 aberta com R$ 31.465,63 em compras autorizadas.
 
 ## Matriz de Riscos (Atenção)
-- **Risco Geotécnico [MITIGADO]:** 8 estacas atingiram o impenetrável a menos de 2m. Solução adotada: sapatas. (Julho/26).
-- **Risco de Segurança [MITIGADO]:** Padrão CEMIG furtado 3 vezes (Auditoria localizou reembolso de R$ 2.000 em Junho). Solução: Contratação de vigia.
-- **Risco Financeiro [ALERTA]:** Necessidade de aditivos de corte de terra e vigia oneraram a obra em R$ 17.966,10 (13,66% realizado vs 12,91% previsto). Acompanhar aderência do fluxo de R$ 95k/mês nos próximos 3 meses.
-- **Risco de Cronograma [MONITORAR]:** Época de chuvas fortes começa em Novembro. Meta é fechar a laje de cobertura antes desse período para não paralisar a mão de obra (~R$ 40k/mês de custo fixo).
+- **Risco Geotécnico [MITIGADO]:** 8 estacas atingiram o impenetrável a menos de 2m. Solução adotada: sapatas. (Julho/26). Contenção da piscina solucionada na Revisão R02 com estacas Ø20cm x 2,5m.
+- **Risco de Segurança [MITIGADO]:** Padrão CEMIG furtado 3 vezes. Solução: Contratação de vigia diurno e noturno (Geraldo Pinto faturado na Medição 06).
+- **Risco Financeiro [MONITORADO]:** Medição 06 fechada em R$ 158.254,30 concentrou grande compra de lajes e fôrmas. Acompanhar a apropriação da Medição 07 (R$ 31,4k já em subcontratos) frente à estimativa mensal de ~R$ 95k.
+- **Risco de Cronograma [CRÍTICO]:** Concretagem da laje do térreo em 16/09 é o marco divisor. Época de chuvas fortes começa em Novembro; a laje de cobertura precisa estar batida até 30/11 para proteção da obra.
+

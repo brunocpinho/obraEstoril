@@ -25,15 +25,28 @@
 - **Lençol Freático:** Não foi encontrado lençol freático durante o ensaio SPT.
 
 ## 4. Projeto Estrutural e Contenções
+- **Autoria do Projeto Estrutural:** Engª Andréia Nogueira Sallaberry (CREA 212074931-0).
+- **Pranchas Vigentes:**
+  - Prancha 03 (Rev. 02 - 03/09/2026): *Formas do Pavimento Térreo* (Níveis intermediários -176.50, -122, -70 e -6).
+  - Prancha 30 (Rev. 02 - 03/09/2026): *Lajes do Pavimento Subsolo e Contenções*.
 - **Solução de Fundação (Mista):**
-  - **Estacas Escavadas:** Ø30cm (aprox. 30 unidades). Devem assentar no impenetrável com compactação de fundo.
-  - **Sapatas:** Projeto revisado para sapatas em pontos onde o impenetrável estava muito raso (menos de 2m). Nota de projeto crucial: *"AS SAPATAS DEVEM SER ASSENTADAS NA CAMADA DO IMPENETRÁVEL"*.
-  - **Tubulão:** Uso localizado (T-PISC1) para a área da piscina.
-- **Contenções e Arrimos:** Projetadas para o entorno do subsolo e base da piscina devido aos cortes no terreno.
-  - **Drenagem/Impermeabilização:** Pintura ou manta asfáltica (incluindo sapata) do lado aterrado e tubo PEAD 6" com caimento de 1%, envolto em areia e brita para alívio de pressão.
-- **Especificações de Materiais:**
-  - **Concreto (fck):** 30 MPa (C-30) para todos os elementos de fundação e contenção.
-  - **Aço:** CA-50 para armaduras longitudinais (6.3mm a 16.0mm) e CA-60 para estribos (5.0mm).
+  - **Estacas Escavadas Principais:** Ø30cm (aprox. 30 unidades), assentadas no impenetrável com compactação de fundo.
+  - **Sapatas:** Projeto revisado para sapatas em pontos onde o impenetrável estava muito raso (<2,0m). Nota de projeto: *"AS SAPATAS DEVEM SER ASSENTADAS NA CAMADA DO IMPENETRÁVEL"*.
+  - **Tubulões:** Tubulão a céu aberto (T-PISC1 / P-PISC2) para a estrutura do setor da piscina.
+- **Contenções e Arrimos (Detalhamento R02 - 03/09/2026):**
+  - **Fundações da Contenção da Piscina:** Estacas escavadas de fundação Ø20cm com 2,50m de profundidade (armaduras 4 N22 Ø10.0mm C=232cm com estribos N21 Ø5.0mm c/14 C=149cm).
+  - **Estrutura dos Arrimos:** Preenchimento das áreas de contenção com blocos de concreto estrutural com 19cm de espessura, pilaretes e vigas de travamento (V-PISC e VT).
+  - **Assentamento da Base:** Sapatas apoiadas sobre camada de regularização de 5cm de brita 2.
+  - **Drenagem Profunda e Impermeabilização:**
+    - Pintura ou manta asfáltica impermeabilizante de alta performance cobrindo todo o lado aterrado, descendo e envelopando a sapata.
+    - Dreno tubular contínuo em PEAD perfurado de 6" com caimento longitudinal de 1% direcionado para a rede de águas pluviais/esgoto.
+    - Envelopamento drenante com camada de 30cm de brita 2 protegida por 30cm de areia grossa/manta geotêxtil.
+    - Reaterro em camadas controladas de 20cm, compactadas com sapo mecânico.
+  - **Quantitativos da Contenção (Prancha 30 R02):** Concreto fck 30 MPa = 1,95 m³, Área de fôrma = 14,93 m², Aço CA-50 = 191 kg, Aço CA-60 = 4,7 kg.
+- **Especificações Gerais de Materiais:**
+  - **Concreto (fck):** 30 MPa (C-30) para todos os elementos estruturais de fundação, contenção e superestrutura.
+  - **Aço:** CA-50 para armaduras longitudinais (bitolas de 6.3mm a 20.0mm) e CA-60 para estribos e telas soldadas Q92 (5.0mm / 4.2mm).
+
 
 ## 5. Instalações (Hidrossanitário e Elétrico)
 - **Projeto Hidráulico:**

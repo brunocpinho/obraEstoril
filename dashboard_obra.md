@@ -1,22 +1,35 @@
 # Dashboard - Obra Estoril
 
-**Status Geral:** Em Andamento (Fase de Estrutura)
-**Duração Estimada:** ~20 Meses (Progresso: Agosto/Setembro 2026)
+**Status Geral:** Em Andamento (Fase de Superestrutura)  
+**Última Atualização:** 03/09/2026  
+**Duração Estimada:** ~20 Meses (Progresso: Setembro/2026)
 
 ## Resumo Executivo (Financeiro Auditado)
-- **Avanço Físico:** **7% Realizado** vs 7% Previsto (No prazo).
-- **Avanço Financeiro (Reportado vs Auditado):** A construtora reportou R$ 330.761,79 (13,66%). A auditoria das transferências bancárias validou o custo direto executado na obra em ~R$ 149.668,82 (Abril a Agosto), sendo o restante referente a projetos, taxas e indiretos da fase inicial. O Custo Total Previsto (Base + 12% de Adm. GLN) é de **R$ 2.422.178,51**.
+- **Avanço Físico:** **7% Realizado** vs 7% Previsto (Aderente à linha de base).
+- **Avanço Financeiro Auditado:**
+  - **Medição 06 (Agosto/2026 - Consolidada):** **R$ 158.254,30** (Subcontratos: R$ 87.648,21 | Mão de Obra direta: R$ 53.650,28 | Adm GLN 12%: R$ 16.955,82).
+  - **Medição 07 (Setembro/2026 - Em Aberto):** **R$ 31.465,63** apropriados em subcontratos (Lote de aço Santa Clara R$ 12.284,77, Madeireira Estrela R$ 8.140,00, locações e caçambas).
+  - **Custo Total Previsto (Base + 12% Adm. GLN):** **R$ 2.422.178,51**.
+- **Projetos Estruturais:** Revisão **R02** liberada pela projetista Andréia Sallaberry em 03/09/2026, solucionando as fundações e drenagem do arrimo da piscina.
+
+## Prazos Críticos Imediatos (Plano Semanal GLN)
+- **04/09/2026 (Amanhã):** Fechar contratação da empreitada de Elétrica (Ronaldo Ribeiro - ATV-0011) e Hidráulica (Cléber Oliveira - ATV-0012).
+- **16/09/2026:** Concretagem geral das vigas e lajes do pavimento térreo (ATV-0014).
+- **28/09/2026:** Início das infraestruturas hidrossanitárias/elétricas e arrimos do subsolo (ATV-0013).
 
 ## Simulação de Fluxo de Caixa (Próximo Trimestre)
-- **Setembro/2026:** ~R$ 95.000 (Foco: Concretagem das vigas e lajes do Térreo dia 16/09).
+- **Setembro/2026:** ~R$ 95.000 (Foco: Concretagem do Térreo dia 16/09 e lote de aço).
 - **Outubro/2026:** ~R$ 100.000 (Foco: Laje do 1º Pavimento, infraestrutura do subsolo e arrimos).
 - **Novembro/2026:** ~R$ 90.000 (Foco: Laje de cobertura e início de alvenarias).
 
 ## Marcos Principais (Milestones)
-- [x] Início da Obra (Abril/Junho - Setup e terraplenagem de R$ 29k)
-- [x] Fundações (Custo direto estimado auditado: ~R$ 145k a R$ 155k)
-- [ ] Superestrutura (Laje do Térreo programada para 16/09)
-- [ ] Vedações e Instalações (Arrimos e infraestrutura do subsolo programados para 28/09)
-- [ ] **META (Nov/2026):** Fim da Superestrutura (Laje de Cobertura concluída). Expectativa de avanço físico em ~21% e financeiro em ~26%.
+- [x] Início da Obra (Abril/Junho - Setup e terraplenagem)
+- [x] Fundações do Subsolo (Concretagem de blocos e vigas baldrame)
+- [x] Liberação da Revisão Estrutural R02 da Piscina (03/09/2026)
+- [ ] Superestrutura - Laje do Térreo (Concretagem programada para 16/09/2026)
+- [ ] Fechamento Contratos de Mão de Obra Elétrica/Hidráulica (Prazo limite: 04/09/2026)
+- [ ] Vedações e Instalações Subsolo (Início programado para 28/09/2026)
+- [ ] **META (Nov/2026):** Fim da Superestrutura (Laje de Cobertura concluída). Meta física: ~21%.
 - [ ] Acabamentos
 - [ ] Entrega da Obra
+
