@@ -5,7 +5,7 @@
   - Pontos de rede (RJ45) no forro para roteadores Wi-Fi (Access Points) e tubulação para câmeras (CFTV) externas.
   - Ponto elétrico (tomada) para toalheiro térmico no Banheiro da Suíte Master, posicionado na parede divisória entre a banheira de hidromassagem e o vaso sanitário.
   - Ponto de água para geladeira/cervejeira e filtro na **Área Gourmet**.
-  - Corrigir o erro na Varanda Descoberta (projetaram spots de embutir onde não há forro).
+- [x] **Projetos [ESCLARECIDO 04/09/2026]:** Iluminação da Varanda Superior / Fachada. Confirmada a existência de **Forro Amadeirado a h=2,90m** na prancha executiva de forro (Folha 12/12 do `PROJARQ_INSTALAÇÕES...`), sendo os 4 spots de embutir dicróica 3000K (Folha 09/12) totalmente compatíveis para embutimento no forro amadeirado. Falso alarme de incompatibilidade superado.
 - [ ] **Projetos (REVISÃO DE PAGINAÇÃO DE PISOS - 1,20x1,20m):** Solicitar à equipe de arquitetura a revisão do projeto executivo de paginação e revestimentos (`PROJARQ_REVESTIMENTOS...`) para o grande formato **1,20x1,20m (Portinari)** em substituição ao 90x90. Redefinir pontos de início de assentamento para minimizar recortes finos, alinhar juntas de pisos e paredes nos banheiros e recalcular quantitativos de compra com perda técnica estimada entre 10% e 15%.
 - [x] **Projetos [CONCLUÍDO 03/09/2026]:** Definição do projeto estrutural de fundação e contenção da piscina entregue pela calculista Andréia Sallaberry na Revisão R02 (Pranchas 03 e 30). Atividade ATV-0015 desbloqueada.
 - [ ] **Contratos [URGENTE - VENCE AMANHÃ 04/09/2026]:** Fechar preço final da empreitada de mão de obra de Elétrica (Ronaldo Damaso Ribeiro - ATV-0011) e Hidráulica (Cléber Oliveira - ATV-0012) para assegurar o início das instalações do subsolo em 28/09.

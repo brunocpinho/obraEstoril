@@ -89,6 +89,7 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
 
 ### Revestimentos e Acabamentos
 - **Pisos:** O porcelanato foi atualizado para o grande formato **1,20x1,20m (Portinari)** (em substituição ao formato 90x90 original) visando maximizar a amplitude visual, requinte e valorização da casa toda. Aplica-se a versão natural (NAT) para as áreas internas e versão antiderrapante (HARD) para áreas externas e varandas. O subsolo mantém concreto polido na garagem.
+- **Forros:** O projeto executivo (`PROJARQ_INSTALAÇÕES...` Folhas 10 a 12/12) estabelece forro de gesso liso com pintura branca nos ambientes secos, gesso acartonado resistente à umidade (placa verde RU) em banheiros/lavanderia, e **Forro Amadeirado** em áreas nobres de transição externa, beirais da fachada e na **Varanda Superior** (h = 2,90m, integrando os 50,29 m² de forro amadeirado do 1º pavimento). A iluminação dessas áreas conta com spots dicróica 3000K embutidos diretamente na estrutura do forro amadeirado.
 - **Destaques:** A cozinha/lavanderia receberá revestimento texturizado *Khali Zen Gris Matte (10x40)*. A fachada externa combina materiais nobres e sensoriais: **Madeira Natural, Pedra Moledo e Tijolinho**.
 
 ### Alertas de Usabilidade e Estética (Atenção do Proprietário)
