@@ -18,7 +18,7 @@
 - **Programa de Necessidades:**
   - *Social/Térreo:* Sala de Estar, Escritório, Cozinha, Copa, Gourmet e Piscina.
   - *Íntimo/1º Pav:* 3 Suítes, sendo a Master com closet amplo e um "Quarto de Orações" exclusivo anexo à suíte.
-- **Destaques Arquitetônicos:** Fachada moderna e mista. Revestimentos com texturas marcantes de Tijolinho, Pedra Moledo e Madeira Natural. Piso unificado com porcelanato de grande formato **1,20x1,20m (Portinari)** para valorização de toda a casa e Concreto Polido na garagem. Piscina e prainha revestidas em rocha natural **Maldivas Natural** da **[TAJ Revestimentos](https://tajrevestimentos.com.br/)**. Fosso para Elevador conectando os três níveis.
+- **Destaques Arquitetônicos:** Fachada moderna e mista. Revestimentos com texturas marcantes de Tijolinho, Pedra Moledo e Madeira Natural. Piso unificado com porcelanato de grande formato **1,20x1,20m (Portinari)** para valorização de toda a casa e Concreto Polido na garagem. Piscina e prainha revestidas em rocha natural **Maldivas Natural 20x20 cm** da **[TAJ Revestimentos](https://tajrevestimentos.com.br/)**. Fosso para Elevador conectando os três níveis.
 
 ## 3. Topografia, Sondagem e Terraplenagem
 - **Perfil do Solo:** As sondagens SPT (RTS-0011-2026 e 556/22) identificaram impenetrável ao trado/lavagem entre 5,18m e 12,40m. A camada superficial é de argila arenosa com pedregulhos (0 a 0,90m), seguida de solo residual e saprolítico (silte argiloso/filito e silte arenoso) variando de média a dura consistência.
@@ -91,20 +91,25 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
 - **Pisos:** O porcelanato foi atualizado para o grande formato **1,20x1,20m (Portinari)** (em substituição ao formato 90x90 original) visando maximizar a amplitude visual, requinte e valorização da casa toda. Aplica-se a versão natural (NAT) para as áreas internas e versão antiderrapante (HARD) para áreas externas e varandas. O subsolo mantém concreto polido na garagem.
 - **Forros:** O projeto executivo (`PROJARQ_INSTALAÇÕES...` Folhas 10 a 12/12) estabelece forro de gesso liso com pintura branca nos ambientes secos, gesso acartonado resistente à umidade (placa verde RU) em banheiros/lavanderia, e **Forro Amadeirado** em áreas nobres de transição externa, beirais da fachada e na **Varanda Superior** (h = 2,90m, integrando os 50,29 m² de forro amadeirado do 1º pavimento). A iluminação dessas áreas conta com spots dicróica 3000K embutidos diretamente na estrutura do forro amadeirado.
 - **Destaques:** A cozinha/lavanderia receberá revestimento texturizado *Khali Zen Gris Matte (10x40)*. A fachada externa combina materiais nobres e sensoriais: **Madeira Natural, Pedra Moledo e Tijolinho**.
-- **Piscina e Prainha (Revestimento Mineral TAJ):** Definido o revestimento em pedra natural **Maldivas Natural** da **[TAJ Revestimentos](https://tajrevestimentos.com.br/)**.
-  - *Composição e Autenticidade:* Rocha ornamental brasileira (Serpentinito Durano) 100% natural e nacional, com variações orgânicas de veios e tonalidades esmeralda/turquesa translúcidas ao contato com a água.
-  - *Propriedades Físico-Químicas:*
-    - **Absorção de água quase nula (0,07%):** Propriedade impermeável intrínseca da rocha, impedindo descamações, estufamentos e oxidações minerais em regime de imersão permanente.
-    - **Resistência Química:** Altíssima durabilidade frente a agentes de cloração (cloro pastilha/líquido e geradores por eletrólise de sal), corretores de pH e algicidas.
-    - **Eficiência Térmica:** Alta inércia térmica mineral que armazena calor e reduz perdas térmicas da água para o meio externo, aumentando o rendimento do sistema de Trocador de Calor projetado na casa de máquinas e gerando economia energética.
-    - **Conforto Tátil e Antiderrapante:** Acabamento em textura natural com toque agradável e aderência segura para áreas molhadas, degraus e prainha rasa.
-    - **Garantia:** Cobertura de garantia de fábrica de 30 anos do fabricante TAJ Revestimentos.
-  - *Diretrizes Executivas de Assentamento:*
-    1. **Teste de Estanqueidade:** Manutenção mandatória do teste de carga e estanqueidade de 72h sobre a cuba de concreto armado previamente impermeabilizada com sistema flexível bicomponente (argamassa polimérica polímero-modificada / manta).
-    2. **Argamassa Especial:** Uso estrito de argamassa colante **AC-III E na cor BRANCA** (específica para pedras naturais e piscinas). Argamassa cinza é expressamente proibida para não escurecer ou manchar o fundo translúcido da rocha.
-    3. **Dupla Colagem Mandatória:** Aplicação com desempenadeira dentada no verso da rocha (tardoz) e no contrapiso/emboço para garantir 100% de contato sem vazios de ar sob pressão hidrostática.
-    4. **Rejuntamento Impermeável:** Rejunte flexível de alta resistência química e biológica (epóxi ou cimentício aditivado anti-fungo para piscinas).
-    5. **Formatos e Paginação:** Modelos padrão disponíveis em 10x10 cm e 20x20 cm. O caderno de paginação deve definir o alinhamento, arremates de quina e margem de perda técnica calculada entre 10% e 15%.
+- **Piscina e Prainha (Revestimento Mineral TAJ 20x20 cm):** Definido o revestimento em pedra natural **Maldivas Natural** no formato **20x20 cm** da **[TAJ Revestimentos](https://tajrevestimentos.com.br/)**.
+  - *Identificação e Composição Mineral:* Rocha natural brasileira **Serpentinito Durano®** (nome científico: *Serpentinito* – evolução geológica do Esteatito), rocha de altíssima densidade originária do Sudeste do Brasil, com certificação oficial do **IPT (Instituto de Pesquisas Tecnológicas)**. Estética exclusiva em verde sofisticado e cinza uniforme com veios translúcidos sob a água.
+  - *Diferenciais Técnicos Comprovados (IPT / Fabricante):*
+    - **Formato Adotado:** Placas quadradas calibradas de **20×20 cm**.
+    - **Força de Ancoragem Excepcional (780 kgf):** Resistência à tração/ancoragem de **780 kgf** (mais de 2,5× acima dos 300 kgf exigidos pela norma ABNT). Equivale à força necessária para erguer ~15 sacos de cimento de 50 kg por peça individual, blindando o revestimento contra desplacamento precoce.
+    - **Calibrada com Zero Dilatação:** Estabilidade dimensional absoluta sem dilatação térmica, eliminando tensões na interface com a argamassa e rejuntamento.
+    - **Absorção de Água Ultrabaixa (Média 0,07%):** Praticamente impermeável por natureza, dispensando impermeabilização sobre a própria pedra; totalmente imune a umidade constante, descamação, oxidação, manchas ou alteração de cor ao longo das décadas.
+    - **Eficiência Térmica & Conservação de Calor:** Mantém a temperatura da água por **até 5 horas a mais** em piscinas convencionais e propicia economia massiva de energia elétrica para aquecer e manter a água aquecida no sistema com o **Trocador de Calor** da obra.
+    - **Evaporação Mínima:** Atenua as perdas hídricas superficiais, diminuindo a frequência de reposição de água da piscina.
+    - **Fácil Boleamento e Usinabilidade no Local:** Permite execução de boleamentos simples e precisos diretamente no canteiro para curvas, degraus, bordas e quinas de prainha com risco zero de trinca.
+    - **Conforto Anatômico:** Superfície segura, atérmica e agradável ao toque em áreas rasas e de circulação molhada.
+    - **Resistência Química:** Imunidade comprovada a cloro, geradores por eletrólise de sal, algicidas e corretores químicos de pH.
+    - **Garantia de Longo Prazo:** Garantia de fábrica de **30 anos** da TAJ Revestimentos.
+  - *Diretrizes Executivas de Canteiro:*
+    1. **Estanqueidade da Estrutura:** Manter obrigatoriamente o teste de estanqueidade de 72h sobre a cuba de concreto armado impermeabilizada com sistema flexível bicomponente antes do assentamento.
+    2. **Argamassa Colante:** Argamassa colante tipo **AC-III** (específica para piscinas e pedras naturais, preferencialmente na cor branca para destacar a tonalidade límpida do Serpentinito).
+    3. **Dupla Colagem:** Aplicação de dupla colagem contínua no contrapiso e no tardoz das peças de 20x20 cm para garantir ancoragem plena sem vazios.
+    4. **Rejunte:** Rejunte flexível impermeável (epóxi ou cimentício aditivado anti-fungo para piscinas).
+    5. **Caderno de Paginação:** Modulação ortogonal em malha 20x20 cm, definindo arremates nos degraus da escada e prainha com boleamento in situ e perda técnica de 10% a 15%.
 
 ### Alertas de Usabilidade e Estética (Atenção do Proprietário)
 1. **Claraboia da Suíte Master:** Foco potencial de infiltração. Exigir da construtora manta asfáltica criteriosa no requadro.
@@ -112,7 +117,7 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
 3. **Lavabo Gourmet (1,64 m²):** Como o espaço é estreito, recomenda-se que a porta abra para fora ou seja de correr embutida para não colidir com o usuário.
 4. **Pisos de Grandes Formatos (1,20x1,20m) e Ralos Lineares:** O formato 1,20x1,20m exige cuidados executivos rigorosos: contrapiso com planicidade milimétrica (<2mm em 2m), dupla colagem obrigatória com argamassa colante AC-III (desempenadeira denteada 10-12mm), niveladores mecânicos (cunhas) e equipe especializada com ventosas para evitar "dentes" (lippage). Nos boxes de todos os banheiros, é mandatória a instalação de ralos lineares no fundo da parede com caimento em plano único, eliminando recortes ("bico de diamante") nas pedras grandes.
 5. **Manutenção da Fachada:** A madeira natural exigirá reaplicação de verniz/stain anualmente para não acinzentar sob o sol.
-6. **Assentamento da Pedra da Piscina (Maldivas Natural - TAJ):** A instalação de rochas naturais em piscinas exige mão de obra especializada. É mandatório o uso exclusivo de argamassa AC-III E branca e rejunte epóxi impermeável. Exigir a entrega das pedras do mesmo lote de extração mineral para preservar a homogeneidade estética dos veios e tonalidades.
+6. **Assentamento da Pedra da Piscina (Maldivas Natural 20x20 cm - TAJ):** A instalação de rochas naturais em piscinas exige mão de obra especializada em pedras nobres. Com placas calibradas no formato 20x20 cm e força de ancoragem de 780 kgf (IPT), o assentamento deve utilizar argamassa AC-III branca em dupla colagem e rejunte epóxi impermeável. O boleamento de quinas e bordas da prainha/degraus pode ser executado com precisão diretamente na obra sem risco de fissuras. Exigir fornecimento de lote único mineral para preservar a homogeneidade estética dos veios e tonalidades.
 
 ## 8. Matriz Global de Compatibilização de Projetos (Clash Detection e Engenharia Executiva)
 *Auditoria técnica realizada em 04/09/2026 cruzando os projetos de Estrutura (Andréia Sallaberry), Hidrossanitário/Pluvial (GLN), Elétrico/Telecom (GLN) e Arquitetura Executiva/Interiores (Pedro Maciel):*
@@ -135,7 +140,7 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
 4. **Piscina em Balanço e Geotecnia da Contenção (Revisão R02):**
    - Volume de $13,23\text{ m³}$ ($13,2\text{ t}$) em desnível de 3m. A casa está em estacas $\varnothing 30\text{ cm}$ a 5-7m no impenetrável, enquanto a contenção da piscina tem estacas de $\varnothing 20\text{ cm}$ a apenas 2,5m.
    - Risco de recalque diferencial, torção nas vigas V211/V225/V226 e trinca na cuba da piscina. Exigência de inspeção geotécnica nas estacas, execução rigorosa do dreno PEAD 6" envolto em brita 2/geotêxtil e teste de estanqueidade de 72h com impermeabilização flexível bicomponente.
-   - **Compatibilização com Acabamento Nobre (Pedra Maldivas Natural - TAJ):** Com a definição da pedra natural Maldivas Natural (Serpentinito Durano), a blindagem contra recalques e trincas torna-se ainda mais crítica para não fraturar o revestimento pétreo mineral nem o rejunte impermeável. Exige-se argamassa colante flexível AC-III E branca e juntas de dilatação submersas adequadas. A inércia térmica do Serpentinito otimizará diretamente a eficiência do Trocador de Calor.
+   - **Compatibilização com Acabamento Nobre (Pedra Maldivas Natural 20x20 cm - TAJ):** Com a definição das placas calibradas de 20x20 cm do Serpentinito Durano (ancoragem de 780 kgf certificada pelo IPT), a blindagem contra recalques e trincas da contenção R02 torna-se prioritária para assegurar a perenidade do acabamento e de suas juntas. Exige-se dupla colagem com argamassa AC-III branca para piscinas e teste de estanqueidade de 72h. A inércia térmica da rocha reduzirá os custos de manutenção térmica pelo Trocador de Calor.
 
 ### 8.2. Hidrossanitário x Estrutural x Forro de Gesso (Subsolo)
 1. **Conflito de Pé-Direito na Garagem:**
