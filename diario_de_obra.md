@@ -58,4 +58,5 @@
   - *Instalações e Talude:* Valas de drenagem com assentamento de tubulação de esgoto pesada em PVC ocre descendo o talude do terreno; talude de corte exposto aguardando contenção da piscina conforme projeto R02 liberado hoje.
   - *Pontos Críticos para a Concretagem de 16/09:* Necessidade urgente da passagem de eletrodutos de teto e instalações embutidas antes do fechamento total e lançamento do concreto usinado (marco limite de contratação de Elétrica e Hidráulica em 04/09); exigência de pastilhas espaçadoras sob a malha soldada e reforço de guarda-corpos perimetrais de segurança (NR-18).
 
-
+### 04/09/2026
+- **Alinhamento de Projeto e Interiores:** O proprietário definiu que não deseja pontos para fita de LED na marcenaria (closets, painel, cozinha). A pendência correspondente foi removida da lista de revisões imediatas de projetos complementares.

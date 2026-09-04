@@ -3,7 +3,6 @@
 ## Ações e Pendências Críticas
 - [ ] **Projetos (REVISÃO URGENTE DE INTERIORES):** Faltam pontos cruciais nos projetos Elétrico/Hidráulico/Forro. Solicitar revisão IMEDIATA para incluir:
   - Pontos de rede (RJ45) no forro para roteadores Wi-Fi (Access Points) e tubulação para câmeras (CFTV) externas.
-  - Pontos elétricos para fita de LED em toda a marcenaria (closets, painel, cozinha).
   - Ponto de água para geladeira/cervejeira e filtro na **Área Gourmet**.
   - Corrigir o erro na Varanda Descoberta (projetaram spots de embutir onde não há forro).
 - [x] **Projetos [CONCLUÍDO 03/09/2026]:** Definição do projeto estrutural de fundação e contenção da piscina entregue pela calculista Andréia Sallaberry na Revisão R02 (Pranchas 03 e 30). Atividade ATV-0015 desbloqueada.
