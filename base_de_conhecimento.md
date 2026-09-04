@@ -57,8 +57,8 @@
 - **Projeto Elétrico:**
   - **Padrão de Entrada (CEMIG):** Padrão Trifásico (Disjuntor Geral de 150A) com 3 Quadros de Distribuição (QD1, QD2, QD3).
   - **Sustentabilidade:** Conta com previsão/eletrodutos dedicados para usina de Geração Fotovoltaica na cobertura e espera para carregador de **Carro Elétrico** (7.400W) na garagem do subsolo.
-  - **Conforto:** Alimentação trifásica dedicada para o funcionamento de um **Elevador** e circuitos dedicados de Ar-Condicionado.
-  - **Segurança:** Iluminação da piscina em 12V DC.
+  - **Conforto:** Alimentação trifásica dedicada para o funcionamento de um **Elevador**, circuitos dedicados de Ar-Condicionado e previsão de tomada para toalheiro térmico no Banho Master (parede entre hidro e vaso sanitário).
+  - **Segurança:** Iluminação da piscina em 12V DC e proteção DR nos circuitos de áreas molhadas e hidromassagem.
 
 ## 6. Evolução Fotográfica e Multimídia (Auditoria de Campo)
 *Análise de Acompanhamento de Obra detalhada extraída dos registros de vídeos e fotos pessoais do proprietário (Julho e Agosto/2026):*

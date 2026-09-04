@@ -60,3 +60,5 @@
 
 ### 04/09/2026
 - **Alinhamento de Projeto e Interiores:** O proprietário definiu que não deseja pontos para fita de LED na marcenaria (closets, painel, cozinha). A pendência correspondente foi removida da lista de revisões imediatas de projetos complementares.
+- **Verificação Elétrica e Interiores (Banho Master):** Realizada auditoria nos projetos Elétrico (`MS_PRJ_ELE_BRUNO_E_KELLY_R00`) e Arquitetônico Executivo de Instalações (`PROJARQ_INSTALAÇÕES_KELY E BRUNO_JUNHO26`). Confirmada a inexistência de ponto de tomada para toalheiro aquecido no Banheiro da Suíte Master. Incluída na lista de pendências críticas a solicitação formal de acréscimo de tomada para toalheiro térmico, localizada especificamente na parede entre a banheira de hidromassagem e a bacia sanitária.
+
