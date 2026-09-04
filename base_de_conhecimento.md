@@ -43,8 +43,9 @@
     - Envelopamento drenante com camada de 30cm de brita 2 protegida por 30cm de areia grossa/manta geotêxtil.
     - Reaterro em camadas controladas de 20cm, compactadas com sapo mecânico.
   - **Quantitativos da Contenção (Prancha 30 R02):** Concreto fck 30 MPa = 1,95 m³, Área de fôrma = 14,93 m², Aço CA-50 = 191 kg, Aço CA-60 = 4,7 kg.
+- **Sistema Estrutural das Lajes (Superestrutura):** Lajes pré-moldadas em **painéis treliçados maciços de concreto** (fornecimento Incobráz - modelo Painel P25 com armadura treliçada TR 08, lote faturado na NF 20283 / OC ABK-28). A laje é composta por placas pré-moldadas maciças de concreto posicionadas justapostas, sem a utilização de blocos de EPS (isopor) ou lajotas cerâmicas de enchimento. Sobre os painéis maciços é montada a malha de aço de distribuição Q92 (aço CA-60 Santa Clara) e lançado o capeamento de concreto usinado fck 30 MPa (MG Mix/Supermix). O sistema de painel maciço garante maior rigidez estrutural, capacidade de sobrecarga elevada, excelente isolamento acústico entre pavimentos e acabamento inferior contínuo de concreto.
 - **Especificações Gerais de Materiais:**
-  - **Concreto (fck):** 30 MPa (C-30) para todos os elementos estruturais de fundação, contenção e superestrutura.
+  - **Concreto (fck):** 30 MPa (C-30) para todos os elementos estruturais de fundação, contenção, lajes e superestrutura.
   - **Aço:** CA-50 para armaduras longitudinais (bitolas de 6.3mm a 20.0mm) e CA-60 para estribos e telas soldadas Q92 (5.0mm / 4.2mm).
 
 
@@ -66,7 +67,7 @@
 ### 1. Evolução Cronológica (Avanço Físico)
 - **Vídeo de 04 de Julho:** O terreno ainda era praticamente um grande buraco. As escavações e a terraplenagem (movimentação de terra) estavam a todo vapor, com o corte reto do barranco ao fundo e acerto do platô inicial.
 - **Vídeo de 15 de Agosto:** A transição para a "obra suja". Vistas todas as valas da fundação abertas, as caixarias de madeira das vigas baldrame e as armaduras dos pilares de arranque já posicionadas.
-- **Vídeo de 29 de Agosto:** Um salto impressionante de produtividade. Os pilares do subsolo já estão 100% concretados e desformados (lisos e curados). O canteiro evoluiu para a etapa de "escoramento": todo o madeiramento (pontaletes amarelos e vigas de madeira) já está sendo erguido para apoiar a laje do térreo. No chão, já é possível ver as "vigotas treliçadas" (as peças de concreto da laje pré-moldada) empilhadas e organizadas, prontas para subir.
+- **Vídeo de 29 de Agosto:** Um salto impressionante de produtividade. Os pilares do subsolo já estão 100% concretados e desformados (lisos e curados). O canteiro evoluiu para a etapa de "escoramento": todo o madeiramento (pontaletes amarelos e vigas de madeira) já está sendo erguido para apoiar a laje do térreo. No chão, já é possível ver os painéis treliçados maciços (as placas pré-moldadas de concreto da laje Incobráz) empilhados e organizados, prontos para subir.
 
 ### 2. Validação do Fosso do Elevador
 - No vídeo do dia **15/08**, quando a câmera passeia pela fundação, é perfeitamente visível o rebaixo quadrado profundo no centro da obra. Dá para notar que a equipe de armação desceu as gaiolas de aço respeitando o nível inferior, confirmando a cota de ~1,00m negativa. Serviço executado com precisão e pronto para receber a cabine no futuro.
