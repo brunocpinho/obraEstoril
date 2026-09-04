@@ -12,8 +12,9 @@ Toda vez que uma nova conversa, sessão ou interação neste projeto for iniciad
    - Atualizar os arquivos correspondentes do projeto (`diario_de_obra.md`, `dashboard_obra.md`, `lista_pendencias_e_riscos.md`, `base_de_conhecimento.md`).
    - Notificar o usuário sobre os impactos no cronograma, custos e engenharia.
 
-## Verificação Recorrente Diária
-- Uma rotina diária automática está agendada para as **10:00** e as **18:00** todos os dias para conferir se a construtora GLN disponibilizou novas medições, notas fiscais, fotos, coletas ou pranchas de projeto.
+## Verificação Recorrente em Dias Úteis
+- Uma rotina automática está agendada para as **10:00**, **13:00** e **18:00** em **dias úteis (segunda a sexta)** para conferir se a construtora GLN disponibilizou novas medições, notas fiscais, fotos, coletas ou pranchas de projeto.
+
 
 
 ## Diretrizes de Documentação
