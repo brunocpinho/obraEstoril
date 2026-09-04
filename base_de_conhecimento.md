@@ -142,12 +142,17 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
    - Risco de recalque diferencial, torção nas vigas V211/V225/V226 e trinca na cuba da piscina. Exigência de inspeção geotécnica nas estacas, execução rigorosa do dreno PEAD 6" envolto em brita 2/geotêxtil e teste de estanqueidade de 72h com impermeabilização flexível bicomponente.
    - **Compatibilização com Acabamento Nobre (Pedra Maldivas Natural 20x20 cm - TAJ):** Com a definição das placas calibradas de 20x20 cm do Serpentinito Durano (ancoragem de 780 kgf certificada pelo IPT), a blindagem contra recalques e trincas da contenção R02 torna-se prioritária para assegurar a perenidade do acabamento e de suas juntas. Exige-se dupla colagem com argamassa AC-III branca para piscinas e teste de estanqueidade de 72h. A inércia térmica da rocha reduzirá os custos de manutenção térmica pelo Trocador de Calor.
 
-### 8.2. Hidrossanitário x Estrutural x Forro de Gesso (Subsolo)
-1. **Conflito de Pé-Direito na Garagem:**
-   - Piso acabado do Subsolo a -3,22m; vigas de h=60cm (V206/V217) têm fundo a -0,66m (pé-direito livre de 2,56m) e vigas de h=50cm a 2,66m.
-   - Os coletores de esgoto e pluvial suspensos sob as vigas com 1% de caimento + conexões + braçadeiras descem a geratriz inferior do cano para **2,30m a 2,36m**.
-   - O forro de gesso verde da garagem foi projetado a 2,60m. O cano passa de **24cm a 34cm abaixo do forro**.
-   - **Diretriz de Obra:** Vetar forro plano rebaixado contínuo (que derrubaria a garagem para 2,25m e travaria o portão PG de 3m e SUVs). Executar forro a 2,70m entre vigas e construir **sancas técnicas/caixotes localizados em drywall RU** contornando exclusivamente as tubulações suspensas e vigas de 60cm.
+### 8.2. Hidrossanitário x Estrutural x Pé-Direito do Subsolo (Solução pelo Caixão Perdido)
+1. **Eliminação do Conflito de Pé-Direito na Garagem via Caixão Perdido / Talude sob o Living:**
+   - **Diagnóstico do Risco Original:** No traçado hidrossanitário preliminar, os coletores de esgoto e pluvial suspensos passariam sob as vigas de transição da garagem (V206/V217 com $h = 60\text{ cm}$, fundo a $-0,66\text{ m}$ / livre de $2,56\text{ m}$). Com a declividade de $1,0\%$ a $1,5\%$, a geratriz inferior dos tubos DN 100/150 desceria para $2,30\text{ m}$ a $2,36\text{ m}$, exigindo caixotes de drywall baixos ou forçando rebaixo excessivo no estacionamento.
+   - **Solução Definitiva Adotada (Passagem pelo Caixão Perdido no Talude):**
+     - O projeto arquitetônico executivo (`PROJARQ_EXECUTIVO_V5_KELY E BRUNO_JUNHO26.pdf`) prevê um grande vazio técnico natural: o **Caixão Perdido / Talude sob o Living** (espaço não habitável sob a laje maciça do pavimento térreo, entre as cotas $-0,06\text{ m}$ e o talude de corte natural do terreno a mais de $-3,00\text{ m}$).
+     - **Traçado Otimizado:** As descidas e prumadas verticais de esgoto e águas pluviais do Térreo (Cozinha, Banheiro 01, Gourmet) e andares superiores penetram diretamente na laje maciça (através de tubos-camisa e shafts locados antes de 16/09) e entram diretamente no **Caixão Perdido**.
+     - **Vantagens Técnicas e Operacionais:**
+       1. **Pé-Direito da Garagem 100% Livre e Desimpedido:** Nenhuma tubulação coletora horizontal de esgoto ou pluvial cruzará o teto sobre as vagas de veículos. O forro da garagem pode ser mantido plano ou com vigas aparentes a **$2,65\text{ m} \text{ a } 2,70\text{ m}$** de altura livre, garantindo folga total para veículos altos/SUVs com bagageiro de teto e abertura plena do portão PG (3,00m).
+       2. **Declividade Sem Restrição:** O talude do terreno fornece desnível natural de mais de $2\text{ m}$ de altura livre, permitindo declividades ideais ($1,5\%$ a $2\%$) por gravidade com fixação em muretas/berços de concreto no talude ou suportes pendurados na laje, sem interferir na estética.
+       3. **Manutenção pela Área Técnica / Inspeção:** O caixão perdido conecta-se à `ÁREA TÉCNICA / INSPEÇÃO` demarcada ao lado da Garagem, Depósito e Casa de Máquinas. O acesso para vistorias, desobstrução e manutenção predial fica restrito à área técnica, sem invadir a garagem ou danificar forros de gesso.
+       4. **Economia de Drywall:** Elimina a necessidade de execução de sancas técnicas, caixotes ou forros complexos em drywall RU sob vigas no teto da garagem.
 
 ### 8.3. Elétrica x Estrutura x Equipamentos
 1. **Alimentadores Pesados e Conduítes na Laje do Térreo:**

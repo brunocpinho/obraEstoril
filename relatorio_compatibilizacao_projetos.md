@@ -16,7 +16,7 @@ A presente auditoria técnica foi realizada mediante cruzamento aprofundado dos 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | **CL-01** | **Hidráulico x Estrutural** | 1º Pavimento / Cobertura | **CRÍTICA** | Indicação em projeto hidráulico de furo horizontal Ø150mm em viga sem cálculo, reforço ou previsão estrutural. | **Veto formal à furação.** Desviar tubulação por baixo da viga com carenamento ou redirecionar para shaft vertical. |
 | **CL-02** | **Hidráulico x Estrutural** | Laje do Térreo (Concretagem 16/09) | **CRÍTICA** | Laje 100% maciça de 12cm: furação posterior com martelete rompe armaduras tracionadas. Shaft 15x120cm exige emolduramento prévio. | Locar gabaritos e tubos-camisa (passantes) antes de 16/09; prever armaduras de borda em torno dos shafts maciços. |
-| **CL-03** | **Hidráulico x Estrutural x Forro** | Teto da Garagem (Subsolo) | **CRÍTICA** | Fundo de vigas a 2,56m/2,66m somado a tubulações suspensas DN 100/150 colide com forro projetado a 2,60m/2,70m (cano desce a 2,30m). | Eliminar forro plano rebaixado geral; adotar **sancas técnicas/caixotes localizados** sob as tubulações, preservando 2,70m livre. |
+| **CL-03** | **Hidráulico x Estrutural x Garagem** | Teto da Garagem x Caixão Perdido (Subsolo) | **RESOLVIDO** | Risco de estrangulamento do pé-direito da garagem para 2,30m por tubulações suspensas sob vigas V206/V217 (fundo a 2,56m). | **Desviar 100% dos coletores horizontais para o Caixão Perdido / Talude sob o Living.** Elimina tubulações na garagem, preserva pé-direito livre pleno a 2,70m e centraliza manutenção na Área Técnica/Inspeção. |
 | **CL-04** | **Elétrico x Estrutural** | Laje do Térreo / Chegada ao QD2 | **ALTA** | Convergência de mais de 14 eletrodutos sobre a laje maciça de 12 cm; risco de cortina de conduítes e bicheiras estruturais. | Instalar 2 sleeves Ø75/Ø100mm; garantir espaçamento ≥ 50mm entre tubos e lançar circuitos terminais no entreforro. |
 | **CL-05** | **Elétrico x Arquitetura (Interiores)** | Suíte Master (Banheiro) | **ALTA** | Toalheiro térmico na divisória hidro x bacia sem circuito dedicado no QD3 e com risco de choque (Zona 2 da NBR 5410). | Criar Circuito 16 (220V/10A) no QD3 com DR ≤ 30mA e ponto com saída de cabo estanque blindada (IPX4/5). |
 | **CL-06** | **Elétrico x Equipamento** | Subsolo x 1º Pavimento | **ALTA** | Motor do Elevador alocado no QD3 (Superior), embora a Casa de Máquinas esteja no Subsolo ao lado do QD1. | Transferir o circuito trifásico do Elevador diretamente para o **QD1 (Subsolo)**, evitando percurso inútil de 3 andares. |
@@ -49,6 +49,15 @@ A presente auditoria técnica foi realizada mediante cruzamento aprofundado dos 
 - **Vantagem da Laje Maciça:** Sendo a laje L22 maciça de concreto armado, o risco de esmagamento de EPS é eliminado, conferindo rigidez e resistência ao puncionamento muito superiores.
 - **Diretriz:** Construir muretas estruturais de concreto armado alinhadas diretamente sobre as vigas portantes **V413 (14x40), V414 (14x30), V419 (14x40) e V422 (14x30)**, transmitindo as reações dos pés do boiler diretamente aos pilares e evitando flechas diferidas.
 
+### 2.4. Roteamento Hidrossanitário pelo Caixão Perdido / Talude sob o Living
+- **Vazio Sanitário Disponível:** Sob a laje maciça do Térreo (cota NO = -0,06m), na projeção do Living e Hall social, o terreno natural em corte forma um amplo **Caixão Perdido** com talude livre (cota de solo entre -1,50m e -3,20m), perfeitamente contíguo à Garagem e à `ÁREA TÉCNICA / INSPEÇÃO`.
+- **Engenharia da Solução:**
+  1. **Desvio das Tubulações:** Em vez de conduzir as tubulações de esgoto e pluvial pelo teto da garagem sob as vigas V206/V217 (h=60cm), os ramais verticais do Térreo e prumadas superiores descem e desaguam diretamente no Caixão Perdido.
+  2. **Declividade e Fixação no Talude:** As tubulações correm livremente pelo talude apoiadas em muretas/berços de concreto ou penduradas sob a laje do Living com declividade ideal (1,5% a 2,0%), conduzindo o esgoto diretamente para as caixas de inspeção externas.
+  3. **Ganhos Arquitetônicos e Operacionais:**
+     - **Teto da Garagem 100% Desobstruído:** Pé-direito livre pleno a **2,65m a 2,70m** (e 2,56m no fundo de vigas), sem canos cruzando sobre os carros e sem necessidade de sancas ou caixotes rebaixados em drywall.
+     - **Manutenção Segura:** Todo o barrilete de esgoto fica concentrado no caixão perdido, acessível exclusivamente pela porta da `ÁREA TÉCNICA / INSPEÇÃO` ao lado da Casa de Máquinas.
+
 ---
 
 ## 3. Checklist Operacional de Canteiro
@@ -63,7 +72,7 @@ A presente auditoria técnica foi realizada mediante cruzamento aprofundado dos 
 | **16/09/2026** | Construtora GLN | **Concretagem das vigas e laje maciça do Térreo com concreto usinado fck 30 MPa e vibração controlada.** | MARCO CRÍTICO |
 | **28/09/2026** | Eletricista | Transferir circuito do Elevador para o QD1 e redimensionar Carregador de Carro Elétrico para cabo 10mm² EPR. | PROGRAMADO |
 | **05/10/2026** | Encanador / Obra | Rasgar alvenaria do Gourmet e instalar pontos de água fria para cervejeira (h=1,20m) e filtro (h=0,55m). | PROGRAMADO |
-| **15/10/2026** | Gesseiro / Arq. | Demarcar no teto da garagem as sancas técnicas em drywall sob os coletores suspensos de esgoto, mantendo forro a 2,70m nos vãos. | PROGRAMADO |
+| **15/10/2026** | Encanador / Mestre | Montar rede coletora hidrossanitária dentro do Caixão Perdido / Talude sob o Living em berços de concreto, mantendo teto da garagem 100% desobstruído. | PROGRAMADO |
 | **Fase Cobertura** | Calculista / Obra | Construir muretas de apoio alinhadas sobre as vigas V413, V414 e V422 para as 3 caixas e boiler sobre a laje maciça L22. | PROGRAMADO |
 | **Fase Acabamento** | Pedreiro / Impermeab. | Assentar ralos lineares ocultos colados na parede de fundo dos boxes (pisos 1,20x1,20m) e aplicar teste de estanqueidade de 72 horas. | PROGRAMADO |
 | **Fase Acabamento** | Azulejista / Obra | Assentar rocha natural **Maldivas Natural 20x20 cm (TAJ)** na piscina com dupla colagem em argamassa **AC-III branca**, execução de boleamento in situ em degraus/bordas e rejunte epóxi impermeável anti-fungo. | PROGRAMADO |
