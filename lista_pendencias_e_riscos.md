@@ -9,15 +9,29 @@
 - [ ] **Projetos (REVISÃO DE PAGINAÇÃO DE PISOS - 1,20x1,20m):** Solicitar à equipe de arquitetura a revisão do projeto executivo de paginação e revestimentos (`PROJARQ_REVESTIMENTOS...`) para o grande formato **1,20x1,20m (Portinari)** em substituição ao 90x90. Redefinir pontos de início de assentamento para minimizar recortes finos, alinhar juntas de pisos e paredes nos banheiros e recalcular quantitativos de compra com perda técnica estimada entre 10% e 15%.
 - [x] **Projetos [CONCLUÍDO 03/09/2026]:** Definição do projeto estrutural de fundação e contenção da piscina entregue pela calculista Andréia Sallaberry na Revisão R02 (Pranchas 03 e 30). Atividade ATV-0015 desbloqueada.
 - [ ] **Contratos [URGENTE - VENCE AMANHÃ 04/09/2026]:** Fechar preço final da empreitada de mão de obra de Elétrica (Ronaldo Damaso Ribeiro - ATV-0011) e Hidráulica (Cléber Oliveira - ATV-0012) para assegurar o início das instalações do subsolo em 28/09.
-- [ ] **Engenharia [AVANÇO 03/09/2026]:** Laje do térreo com painéis treliçados maciços de concreto montados (Incobráz Painel P25 TR 08) e malha soldada superior amarrada (inspecionado via vídeo IMG_8143.MOV). Ações imediatas antes da concretagem de 16/09 (ATV-0014): passagem ágil de conduítes/tubulações embutidas, colocação de espaçadores plásticos sob a tela e reforço dos guarda-corpos perimetrais (NR-18).
+- [ ] **Engenharia [BLOQUEIO CRÍTICO ATÉ 14/09/2026 - CONCRETAGEM 16/09]:** Executar na laje do pavimento térreo antes do concreto usinado:
+  - Locar gabaritos e nervuras duplas/cambotas para os shafts hidráulicos (especialmente o Shaft 15x120 cm do Gourmet/Lavabo), proibindo o corte em vigotas pré-moldadas.
+  - Instalar e ancorar todos os tubos-camisa (passantes) das prumadas de esgoto (TQ-01 a TQ-04), pluvial (AP-01 a AP-07) e bacias sanitárias. Veto absoluto a furações posteriores na laje.
+  - Instalar 2 sleeves rígidos de Ø 75 mm ou Ø 100 mm para passagem suave do alimentador principal QD1 -> QD2 (cabos de 35mm²).
+  - Aplicar espaçadores plásticos garantindo afastamento ≥ 50 mm entre eletrodutos e desviar 80% das redes terminais para o entreforro suspenso, evitando ninhos de concretagem (bicheiras).
+- [ ] **Engenharia Estrutural / Hidráulica [VETO ABERTO]:** Notificar encarregado e projetistas sobre o **VETO FORMAL** ao furo horizontal de Ø 150 mm em viga prescrito na Folha 03/16 do Hidráulico (sem previsão estrutural). Executar desvio inferior por baixo da viga com carenamento em drywall.
+- [ ] **Projetos / Instalações (ADEQUAÇÕES EXECUTIVAS):**
+  - Transferir a alimentação trifásica do Elevador (Circuito 12) do **QD3 (1º Pavimento) para o QD1 (Subsolo)**, ao lado da Casa de Máquinas.
+  - Redimensionar o circuito do Carregador de Carro Elétrico (7.400W) para condutores de **10 mm² EPR/HEPR 90°C** em eletroduto de 1" com **DR Tipo B (ou Tipo A + RDC-DD 6mA)**.
+  - Criar o Circuito 16 no QD3 (220V/10A com DR ≤ 30 mA) com saída estanque com prensa-cabo (IPX4/5) na divisória entre banheira e vaso (Zona 2 da NBR 5410) para o toalheiro da Suíte Master.
+  - Instalar ramal de água fria a h=1,20 m (cervejeira) e derivação a h=0,55 m com registro (filtro de bancada) no Gourmet antes do reboco.
+  - Modernizar projeto de telecomunicações: Rack VDI 19" 12U no Subsolo, 5 pontos de Access Point Wi-Fi no teto (PoE), infra de CFTV nos beirais e fio neutro nos interruptores.
 - [x] **Financeiro e Compras [AUDITADO 03/09/2026]:**
   - Medição 06 fechada e auditada em R$ 158.254,30 (lajes pré-moldadas Incobráz de R$ 26.800,00 e concreto usinado MG Mix de R$ 13.200,00 validados).
   - Coletas de Setembro homologadas: Coleta 25 (ferramentas MJS) e Coleta 26 (1.870 kg de aço Santa Clara por R$ 12.284,77 faturados na OC ABK-40).
   - Medição 07 aberta com R$ 31.465,63 em compras autorizadas.
 
 ## Matriz de Riscos (Atenção)
-- **Risco Geotécnico [MITIGADO]:** 8 estacas atingiram o impenetrável a menos de 2m. Solução adotada: sapatas. (Julho/26). Contenção da piscina solucionada na Revisão R02 com estacas Ø20cm x 2,5m.
+- **Risco de Furação Estrutural [ALTO / BLOQUEADO]:** Tubo Ø 150 mm em viga sem reforço de armadura causaria ruptura por cisalhamento. Mitigado por veto formal e desvio inferior.
+- **Risco de Concretagem e Bicheiras na Laje de 12cm [CRÍTICO ATÉ 16/09]:** Adensamento excessivo de conduítes sobre a laje do Térreo. Solução: sleeves Ø 75/Ø 100 mm, espaçamento de 50mm e lançamento no entreforro.
+- **Risco de Conflito de Pé-Direito no Subsolo [MITIGADO]:** Fundo de vigas a 2,56m somado a esgoto suspenso desce para 2,30m, colidindo com forro plano de 2,60m. Mitigado pela criação de sancas técnicas localizadas em drywall RU.
+- **Risco de Sobrecarga na Laje de Cobertura [MONITORADO]:** 4,65 toneladas de água (caixas + boiler) sobre a laje L22 treliçada. Mitigado por painel em concreto maciço e muretas de apoio sobre as vigas V413, V414, V419 e V422.
+- **Risco Geotécnico e Recalque da Piscina [ALTO / MONITORADO]:** Desnível de 3m e sobrecarga de 13,2 t apoiada em estacas de apenas 2,5m (R02). Exigir inspeção de fundo das estacas, dreno contínuo em PEAD perfurado de 6" com brita 2/geotêxtil e teste de estanqueidade de 72h.
 - **Risco de Segurança [MITIGADO]:** Padrão CEMIG furtado 3 vezes. Solução: Contratação de vigia diurno e noturno (Geraldo Pinto faturado na Medição 06).
 - **Risco Financeiro [MONITORADO]:** Medição 06 fechada em R$ 158.254,30 concentrou grande compra de lajes e fôrmas. Acompanhar a apropriação da Medição 07 (R$ 31,4k já em subcontratos) frente à estimativa mensal de ~R$ 95k.
 - **Risco de Cronograma [CRÍTICO]:** Concretagem da laje do térreo em 16/09 é o marco divisor. Época de chuvas fortes começa em Novembro; a laje de cobertura precisa estar batida até 30/11 para proteção da obra.
-
