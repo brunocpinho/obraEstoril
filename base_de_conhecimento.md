@@ -121,14 +121,19 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
 5. **Manutenção da Fachada:** A madeira natural exigirá reaplicação de verniz/stain anualmente para não acinzentar sob o sol.
 6. **Assentamento da Pedra da Piscina (Maldivas Natural 20x20 cm - TAJ):** A instalação de rochas naturais em piscinas exige mão de obra especializada em pedras nobres. Com placas calibradas no formato 20x20 cm e força de ancoragem de 780 kgf (IPT), o assentamento deve utilizar argamassa AC-III branca em dupla colagem e rejunte epóxi impermeável. O boleamento de quinas e bordas da prainha/degraus pode ser executado com precisão diretamente na obra sem risco de fissuras. Exigir fornecimento de lote único mineral para preservar a homogeneidade estética dos veios e tonalidades.
 
-## 8. Matriz Global de Compatibilização de Projetos (Clash Detection e Engenharia Executiva)
-*Auditoria técnica realizada em 04/09/2026 cruzando os projetos de Estrutura (Andréia Sallaberry), Hidrossanitário/Pluvial (GLN), Elétrico/Telecom (GLN) e Arquitetura Executiva/Interiores (Pedro Maciel):*
+## 8. Matriz Global de Compatibilização de Projetos 3D/BIM (Clash Detection e Engenharia Executiva)
+*Auditoria técnica realizada em 04/09/2026 integrando o Modelo Estrutural 3D BIM (Sketchfab / IFC), Pranchas 28 e 29, Detalhes Isométricos 3D (Folhas 07 e 16 do Hidrossanitário) e Projetos Executivos de Arquitetura e Elétrica:*
+
+### 8.0. Referenciais de Modelagem 3D e Isométrica Auditados
+1. **Modelo BIM Estrutural:** Modelo 3D oficial no Sketchfab [CASA - L25CQ70](https://sketchfab.com/3d-models/casa-l25cq70-237f603e2ad143d0914496bf5d616510) e modelo IFC nativo [`MS_PRJ_EST_L25CQ70.IFC`](file:///c:/Users/bruno/GLN%20Engenharia%20LTDA/Gabriel%20Paiva%20Moreira%20Alves%20-%2022-%20Bruno%20e%20Kelly%20-%20Estoril/01-%20Projetos/5-%20Estrutural/IFC/MS_PRJ_EST_L25CQ70.IFC) (Engª Andréia Sallaberry). Níveis auditados: Fundações (-3,80m), Subsolo (-3,30m), Térreo (-0,06m), 1º Pavimento (+3,36m), Cobertura (+6,74m) e Topo do Elevador (+7,44m).
+2. **Pranchas Estruturais 3D:** [`28_Cortes_e_Vistas_3D_R00.pdf`](file:///c:/Users/bruno/GLN%20Engenharia%20LTDA/Gabriel%20Paiva%20Moreira%20Alves%20-%2022-%20Bruno%20e%20Kelly%20-%20Estoril/01-%20Projetos/5-%20Estrutural/PDF/28_Cortes_e_Vistas_3D_R00.pdf) (Cortes A-A, B-B, C-C, Isométrico Geral e QR Code) e [`29_Cortes_e_Vistas_3D_R00.pdf`](file:///c:/Users/bruno/GLN%20Engenharia%20LTDA/Gabriel%20Paiva%20Moreira%20Alves%20-%2022-%20Bruno%20e%20Kelly%20-%20Estoril/01-%20Projetos/5-%20Estrutural/PDF/29_Cortes_e_Vistas_3D_R00.pdf) (Corte D-D, Topo Elevador e Abertura da Claraboia).
+3. **Isométricos 3D Hidrossanitários:** Folha 07/16 (`ISO - ESG - GERAL 1:50` - traçado 3D de esgoto, ventilação, pluvial e drenos) e Folha 16/16 (`ISO - HID - GERAL 1:50` - barrilete das 3 caixas de 1.000L, boiler de 800L, pressurizador e circuito da piscina na Casa de Máquinas).
 
 ### 8.1. Estrutural x Hidrossanitário (Premissa: Lajes 100% Maciças - Zero EPS)
 1. **Concretagem da Laje do Térreo (16/09/2026) - Lajes 100% Maciças e Passantes:**
    - **Sistema Construtivo:** Todas as lajes da residência (Térreo, 1º Pavimento e Cobertura) são **100% MACIÇAS DE CONCRETO ARMADO**, executadas em painéis pré-moldados treliçados maciços de concreto (Incobráz Painel P25 com armadura treliçada TR 08), justapostos e capeados com concreto usinado fck 30 MPa (MG Mix) e malha soldada superior Q-92 (espessura total $H = 12\text{ cm}$). **NÃO É UTILIZADO BLOCO DE EPS (ISOPOR) EM NENHUMA LAJE DA OBRA.**
    - **Implicação Crítica para Shafts:** Como toda a espessura de 12 cm é concreto maciço armado (painel inferior de concreto + treliça de aço + concreto usinado capeado), **QUALQUER CORTE OU FURAÇÃO POSTERIOR COM MARTELETE OU PERFURATRIZ É SEVERAMENTE DESTRUTIVO**, seccionando armaduras inferiores tracionadas e treliças.
-   - O **Shaft do Lavabo/Gourmet ($15 \times 120\text{ cm}$)** e os demais shafts ($15 \times 62\text{ cm}$ e $15 \times 47\text{ cm}$) devem ter suas aberturas delimitadas por fôrmas/moldes perdidos antes de 16/09, com armaduras de borda/costura instaladas.
+   - O **Shaft do Lavabo/Gourmet ($15 \times 120\text{ cm}$)** (TQ-02, AP-05, DR-02, CV-02, AF-02, AQ-02), o Shaft Central ($15 \times 62\text{ cm}$) e o Shaft Cozinha ($15 \times 47\text{ cm}$) descem tangenciando as faces das vigas V206, V210 e VE3. Devem ter suas aberturas delimitadas por fôrmas/moldes perdidos de madeira resinada antes de 16/09, com armaduras de costura de borda (2 Ø10mm por face) instaladas.
    - **Proibição de Tubulações Hidráulicas Embutidas na Laje:** Pela NBR 6118 (item 13.2.3), tubulações embutidas não podem exceder 1/3 da espessura da laje maciça ($40\text{ mm}$). Como não há EPS para passagem de tubos, **nenhuma tubulação horizontal de esgoto, água ou gordura pode ser embutida na laje**. 100% dos coletores horizontais devem ser executados suspensos sob a laje (no entreforro) ou sobre ela no contrapiso.
    - Todos os tubos-camisa (passantes de PVC) das prumadas e bacias devem estar fixados e ancorados nas fôrmas até 14/09/2026.
 2. **Veto a Furo em Viga $\varnothing 150\text{ mm}$ (Folha 03/16 do Hidráulico):**
@@ -138,22 +143,23 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
 3. **Cargas de Reservatórios (3.000L) e Boiler (800L) na Cobertura Maciça:**
    - Como a laje de cobertura L22 é **100% maciça de concreto armado**, o risco de esmagamento de blocos de EPS é inexistente, proporcionando elevada rigidez e resistência ao puncionamento.
    - A carga real concentrada atinge $4.650\text{ kgf}$ ($4,65\text{ t}$), com pressão de $1.200\text{ a }1.300\text{ kgf/m²}$ e reações pontuais de até $450\text{ kgf}$ por pé do boiler.
-   - Devem ser construídas muretas estruturais de apoio em concreto alinhadas diretamente sobre as vigas portantes V413, V414, V419 e V422 para descarregar as reações pontuais dos pés do boiler diretamente nos pilares, evitando flechas diferidas na laje maciça.
-4. **Piscina em Balanço e Geotecnia da Contenção (Revisão R02):**
-   - Volume de $13,23\text{ m³}$ ($13,2\text{ t}$) em desnível de 3m. A casa está em estacas $\varnothing 30\text{ cm}$ a 5-7m no impenetrável, enquanto a contenção da piscina tem estacas de $\varnothing 20\text{ cm}$ a apenas 2,5m.
-   - Risco de recalque diferencial, torção nas vigas V211/V225/V226 e trinca na cuba da piscina. Exigência de inspeção geotécnica nas estacas, execução rigorosa do dreno PEAD 6" envolto em brita 2/geotêxtil e teste de estanqueidade de 72h com impermeabilização flexível bicomponente.
+   - Na projeção 3D da cobertura (IFC / Prancha 29), essas cargas situam-se sobre a malha das vigas portantes **V413 (14x40), V414 (14x30), V419 (14x40) e V422 (14x30)** apoiadas nos pilares P26, P27 e P28. Devem ser construídas muretas estruturais de apoio diretamente sobre as vigas para descarregar o peso diretamente nos pilares, evitando flechas diferidas na laje maciça.
+4. **Piscina em Balanço, Prainha e Geotecnia da Contenção (Revisão R02):**
+   - A cuba possui desníveis em patamares tridimensionais ($-0,70\text{ m}$, $-1,22\text{ m}$, $-1,765\text{ m}$ e $-2,26\text{ m}$) suportados por vigas V-PISC1 a V-PISC24, vigas de travamento VT1 a VT12 e muros em blocos de concreto estrutural de 19cm grauteados apoiados em estacas Ø20cm de 2,50m de profundidade.
+   - No isométrico 3D (Folhas 15 e 16), as tubulações de sucção (ralos de fundo antiturbilhão afastados $\ge 1,00\text{ m}$), retorno, hidro e aspiração atravessam a contenção rumo à Casa de Máquinas no Subsolo.
+   - **Exigência 3D:** Instalação prévia de tubos-camisa com flanges estanques de vedação / anéis hidroexpansivos nas fôrmas. Proibido quebrar blocos grauteados a posteriori.
    - **Compatibilização com Acabamento Nobre (Pedra Maldivas Natural 20x20 cm - TAJ):** Com a definição das placas calibradas de 20x20 cm do Serpentinito Durano (ancoragem de 780 kgf certificada pelo IPT), a blindagem contra recalques e trincas da contenção R02 torna-se prioritária para assegurar a perenidade do acabamento e de suas juntas. Exige-se dupla colagem com argamassa AC-III branca para piscinas e teste de estanqueidade de 72h. A inércia térmica da rocha reduzirá os custos de manutenção térmica pelo Trocador de Calor.
 
 ### 8.2. Hidrossanitário x Estrutural x Subsolo: Desmistificação do Pé-Direito da Garagem
 1. **Auditoria Estrutural e Arquitetônica das Cotas Reais:**
-   - **Nível do Piso Acabado da Garagem:** $\text{NA} = -3,22\text{ m}$ ($\text{NO} = -3,30\text{ m}$ com contrapiso de $8\text{ cm}$).
-   - **Nível da Laje do Térreo:** $\text{NO} = -0,06\text{ m}$ ($\text{NA} = \pm 0,00\text{ m}$).
-   - **Vigas Estruturais sobre a Garagem (Prancha 03/14 - `03_Formas_Térreo_R02`):** As vigas de teto da garagem (V201 a V218) possuem seção $19/40$ ($h = 40\text{ cm}$).
+   - **Nível do Piso Acabado da Garagem:** $\text{NA} = -3,22\text{ m}$ ($	ext{NO} = -3,30\text{ m}$ com contrapiso de $8\text{ cm}$).
+   - **Nível da Laje do Térreo:** $\text{NO} = -0,06\text{ m}$ ($	ext{NA} = \pm 0,00\text{ m}$).
+   - **Vigas Estruturais sobre a Garagem (Prancha 03/14 - `03_Formas_Térreo_R02` e IFC):** As vigas de teto da garagem (V201 a V218) possuem seção $19/40$ ($h = 40\text{ cm}$).
      - Fundo de viga na cota: $-0,06\text{ m} - 0,40\text{ m} = -0,46\text{ m}$.
      - **Pé-direito livre real sob as vigas estruturais:** $-0,46 - (-3,22) = \mathbf{2,76\text{ m}}$.
      - **Pé-direito livre sob a laje maciça de 12cm:** $-0,18 - (-3,22) = \mathbf{3,04\text{ m}}$.
      - **Inexistência de vigas a 2,30m:** Nenhuma viga estrutural desce a 2,30m.
-2. **Traçado Real das Redes Hidrossanitárias (Folha 01/16 - `MS_PRJ_HID_...`):**
+2. **Traçado Real das Redes Hidrossanitárias (Folha 07/16 - `ISO - ESG - GERAL`):**
    - O detalhamento isométrico 3D comprova que os tubos de queda verticais dos shafts (TQ-01, TQ-02, TQ-04, AP-03, AP-05) possuem pontos de inspeção a $60\text{ cm}$ e **mergulham diretamente no piso do subsolo**.
    - Toda a rede horizontal coletora corre **abaixo do contrapiso / enterrada no solo**, interligando as prumadas diretamente às Caixas de Inspeção (`CI`) com tampas no piso e caixas de passagem pluvial (`CP GRELHA`).
    - **Nenhuma tubulação de esgoto ou pluvial corre suspensa pelo teto da garagem.**
@@ -166,7 +172,7 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
    - Alimentador QD1 $\rightarrow$ QD2 em cabos $3\#35(35)+16\text{ mm²}$ em 2x ø1.1/4" (disjuntor 125A) exige raio de curvatura suave de no mínimo 20cm (NBR 5410). Instalar **2 sleeves rígidos $\varnothing 75/\varnothing 100\text{ mm}$** na fôrma do térreo até 14/09.
    - Mais de 14 eletrodutos convergem para o QD2. Obrigatoriedade de espaçamento mínimo de 50mm entre tubos para evitar ninhos de concretagem (bicheiras). Desviar 80% das tubulações para o entreforro suspenso.
 2. **Incoerência da Alimentação do Elevador:**
-   - Circuito 12 alocado erroneamente no QD3 (1º Pavimento), enquanto a Casa de Máquinas fica no Subsolo ao lado do QD1. **Transferir a alimentação trifásica do Elevador diretamente para o QD1 (Subsolo)**, eliminando percurso inútil de 3 andares e flicker na iluminação dos quartos.
+   - No modelo 3D (IFC e Prancha 29), a Casa de Máquinas e o poço profundo (~1,00m) do Elevador situam-se no Subsolo, contíguos ao QD1. **Transferir a alimentação trifásica do Elevador diretamente para o QD1 (Subsolo)**, eliminando percurso inútil de 3 andares e flicker na iluminação dos quartos.
 3. **Carregador de Carro Elétrico (7.400W na Garagem):**
    - Cabo 6mm² PVC com disjuntor de 40A opera sobreaquecido em carga contínua de 8h ($I_z = 35,67\text{ A} < I_n = 40\text{ A}$). **Redimensionar para cabo 10mm² EPR/HEPR 90°C** em eletroduto de 1" e exigir **DR Tipo B (ou Tipo A + RDC-DD 6mA)** contra saturação DC.
 4. **Toalheiro Térmico no Banheiro Master (NBR 5410):**
@@ -181,8 +187,8 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
    - Fechamento do shaft de prumadas verticais (TQ-02/TQ-03/AP-05) deve ter largura máxima de 15cm, garantindo o vão livre de 1,05m para ventilação da geladeira embutida.
 3. **Paginação de Pisos (1,20x1,20m) e Ralos Lineares:**
    - Ralos lineares com tampa oculta colados na parede de fundo dos boxes das 3 suítes, com caimento em plano único de 1% a 1,5% e impermeabilização subindo 20cm com teste de estanqueidade de 72h.
-4. **Claraboia da Suíte Master:**
-   - Mureta de requadro em concreto com $h \ge 15\text{ cm}$ acima do piso da cobertura, dupla camada de manta asfáltica e rufo metálico perimetral antes da fixação do caixilho.
+4. **Claraboia da Suíte Master x Respiro de Esgoto (NBR 8160):**
+   - Na projeção 3D da cobertura (+6,74m), a claraboia zenital sobre a banheira é emoldurada pelas vigas V404, V405, V420 e V421. A coluna de ventilação sanitária CV-03 deve ser desviada em barrilete até a platibanda oposta, mantendo afastamento $\ge 2,00\text{ m}$ do vão da claraboia para impedir retorno de odores para a suíte master.
 
 ### 8.5. Modernização de Telecomunicações, Wi-Fi e Segurança
 1. **Rack VDI 19" 12U:** Locado no Depósito do Subsolo com cabeamento estruturado Cat.6 100% Cobre e Switch PoE+.

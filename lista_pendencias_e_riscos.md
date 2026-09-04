@@ -31,6 +31,10 @@
   - Coletas de Setembro homologadas: Coleta 25 (ferramentas MJS) e Coleta 26 (1.870 kg de aço Santa Clara por R$ 12.284,77 faturados na OC ABK-40).
   - Medição 07 aberta com R$ 31.465,63 em compras autorizadas.
 
+- [ ] **Engenharia / Cobertura [3D CLASH]:** Desviar terminal de ventilação sanitária CV-03 (BWC Master) para platibanda oposta na cobertura (+6,74m), assegurando afastamento normativo $\ge 2,00	ext{ m}$ em relação à abertura zenital da claraboia emoldurada por V404/V405/V420/V421 (NBR 8160 item 5.1.3 - prevenção contra retorno de gases de esgoto).
+- [ ] **Engenharia / Estrutural [3D CLASH]:** Construir muretas estruturais de apoio alinhadas diretamente sobre as vigas V413, V414, V419 e V422 para suporte das 3 caixas de 1.000L e boiler de 800L (4,65 t) sobre a laje maciça L22 da cobertura.
+- [ ] **Engenharia / Hidráulica / Arrimo [3D CLASH]:** Posicionar tubos-camisa com flanges estanques de vedação / anéis hidroexpansivos nas vigas V-PISC e muros de blocos grauteados de 19cm da piscina (R02) para os ramais de sucção, retorno, hidro e ralo de fundo antes da concretagem/grauteamento.
+
 ## Matriz de Riscos (Atenção)
 - **Risco de Furação Estrutural [ALTO / BLOQUEADO]:** Tubo Ø 150 mm em viga sem reforço de armadura causaria ruptura por cisalhamento. Mitigado por veto formal e desvio inferior.
 - **Risco de Concretagem e Bicheiras na Laje de 12cm [CRÍTICO ATÉ 16/09]:** Adensamento excessivo de conduítes sobre a laje do Térreo. Solução: sleeves Ø 75/Ø 100 mm, espaçamento de 50mm e lançamento no entreforro.
