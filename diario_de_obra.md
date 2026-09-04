@@ -59,6 +59,14 @@
   - *Pontos Críticos para a Concretagem de 16/09:* Necessidade urgente da passagem de eletrodutos de teto e instalações embutidas antes do fechamento total e lançamento do concreto usinado (marco limite de contratação de Elétrica e Hidráulica em 04/09); exigência de pastilhas espaçadoras sob a malha soldada e reforço de guarda-corpos perimetrais de segurança (NR-18).
 
 ### 04/09/2026
+- **Auditoria Fotográfica Oficial (Semana 11 - 31/08 a 04/09/2026):** Incorporação e análise técnica de 10 fotos de campo disponibilizadas pela construtora GLN e capturadas na verificação automática das 18:00:
+  - *Montagem Estrutural da Laje:* Visualização panorâmica e em detalhe da pré-laje do pavimento térreo. A malha de distribuição de aço (Santa Clara Q92) e os reforços de armadura negativa estão integralmente amarrados sobre os painéis treliçados.
+  - *Espaçadores Normativos:* Verificação positiva do uso de espaçadores plásticos distribuídos por toda a extensão da malha de aço, garantindo o cobrimento de projeto durante o lançamento do concreto C-30.
+  - *Caixarias e Pilares:* Fôrmas laterais das vigas de borda totalmente aprumadas e travadas; pilares do subsolo desformados e íntegros suportando o escoramento de torres e pontaletes.
+  - *Alerta Imediato de Cronograma:* A inspeção visual atesta que os eletrodutos e conduítes corrugados de teto ainda não foram lançados sobre a armadura. A contratação do eletricista (Ronaldo Ribeiro) precisa ser finalizada imediatamente para a passagem da tubulação antes da concretagem de 16/09.
+
+
+### 04/09/2026
 - **Alinhamento de Projeto e Interiores:** O proprietário definiu que não deseja pontos para fita de LED na marcenaria (closets, painel, cozinha). A pendência correspondente foi removida da lista de revisões imediatas de projetos complementares.
 - **Verificação Elétrica e Interiores (Banho Master):** Realizada auditoria nos projetos Elétrico (`MS_PRJ_ELE_BRUNO_E_KELLY_R00`) e Arquitetônico Executivo de Instalações (`PROJARQ_INSTALAÇÕES_KELY E BRUNO_JUNHO26`). Confirmada a inexistência de ponto de tomada para toalheiro aquecido no Banheiro da Suíte Master. Incluída na lista de pendências críticas a solicitação formal de acréscimo de tomada para toalheiro térmico, localizada especificamente na parede entre a banheira de hidromassagem e a bacia sanitária.
 - **Atualização de Acabamentos (Porcelanato de Grande Formato 1,20x1,20m):** O proprietário definiu a substituição do piso de porcelanato geral (anteriormente 90x90) pelo grande formato **1,20x1,20m (Portinari)** com o objetivo de valorizar a estética e a amplitude dos ambientes em toda a casa. Cadastrada a pendência para a arquitetura revisar o caderno de paginação e quantitativos (com margem de perda técnica de 10% a 15%) e documentadas as exigências de execução de campo (planicidade estrita de contrapiso, dupla colagem AC-III, niveladores mecânicos e caimento de boxes em plano único para ralos lineares).
