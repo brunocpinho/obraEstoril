@@ -102,18 +102,21 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
 ## 8. Matriz Global de Compatibilização de Projetos (Clash Detection e Engenharia Executiva)
 *Auditoria técnica realizada em 04/09/2026 cruzando os projetos de Estrutura (Andréia Sallaberry), Hidrossanitário/Pluvial (GLN), Elétrico/Telecom (GLN) e Arquitetura Executiva/Interiores (Pedro Maciel):*
 
-### 8.1. Estrutural x Hidrossanitário
-1. **Concretagem da Laje do Térreo (16/09/2026) - Shafts e Passantes:**
-   - Laje executada em painéis treliçados maciços H=12cm (P25 TR08). O item 13.2.4 da NBR 6118 veda tubulações na capa estrutural.
-   - O **Shaft do Lavabo/Gourmet ($15 \times 120\text{ cm}$)** intercepta de 2 a 3 vigotas treliçadas. Obrigatoriedade de criar nervuras duplas/cambotas nas fôrmas antes do lançamento do concreto.
-   - Instalação antecipada e ancoragem de todos os tubos-camisa (passantes) para bacias sanitárias, prumadas TQ-01 a TQ-04 e AP-01 a AP-07 até 14/09/2026. Veto total a cortes posteriores com martelete ou perfuratriz na laje.
+### 8.1. Estrutural x Hidrossanitário (Premissa: Lajes 100% Maciças - Zero EPS)
+1. **Concretagem da Laje do Térreo (16/09/2026) - Lajes 100% Maciças e Passantes:**
+   - **Sistema Construtivo:** Todas as lajes da residência (Térreo, 1º Pavimento e Cobertura) são **100% MACIÇAS DE CONCRETO ARMADO**, executadas em painéis pré-moldados treliçados maciços de concreto (Incobráz Painel P25 com armadura treliçada TR 08), justapostos e capeados com concreto usinado fck 30 MPa (MG Mix) e malha soldada superior Q-92 (espessura total $H = 12\text{ cm}$). **NÃO É UTILIZADO BLOCO DE EPS (ISOPOR) EM NENHUMA LAJE DA OBRA.**
+   - **Implicação Crítica para Shafts:** Como toda a espessura de 12 cm é concreto maciço armado (painel inferior de concreto + treliça de aço + concreto usinado capeado), **QUALQUER CORTE OU FURAÇÃO POSTERIOR COM MARTELETE OU PERFURATRIZ É SEVERAMENTE DESTRUTIVO**, seccionando armaduras inferiores tracionadas e treliças.
+   - O **Shaft do Lavabo/Gourmet ($15 \times 120\text{ cm}$)** e os demais shafts ($15 \times 62\text{ cm}$ e $15 \times 47\text{ cm}$) devem ter suas aberturas delimitadas por fôrmas/moldes perdidos antes de 16/09, com armaduras de borda/costura instaladas.
+   - **Proibição de Tubulações Hidráulicas Embutidas na Laje:** Pela NBR 6118 (item 13.2.3), tubulações embutidas não podem exceder 1/3 da espessura da laje maciça ($40\text{ mm}$). Como não há EPS para passagem de tubos, **nenhuma tubulação horizontal de esgoto, água ou gordura pode ser embutida na laje**. 100% dos coletores horizontais devem ser executados suspensos sob a laje (no entreforro) ou sobre ela no contrapiso.
+   - Todos os tubos-camisa (passantes de PVC) das prumadas e bacias devem estar fixados e ancorados nas fôrmas até 14/09/2026.
 2. **Veto a Furo em Viga $\varnothing 150\text{ mm}$ (Folha 03/16 do Hidráulico):**
    - O projeto hidráulico prescreve furo horizontal $\varnothing 150\text{ mm}$ PVC Série R em viga para o Poço Absorvente, mas a projetista estrutural Andréia Sallaberry **NÃO previu nem calculou** esse furo nas pranchas 13/14 e 17/18.
    - Em vigas de $b_w = 14\text{ cm}$ (1º Pavimento) a passagem é fisicamente impossível; em vigas de $b_w = 19\text{ cm}$, o furo de 18cm destrói estribos e bielas de compressão.
    - **Diretriz de Obra:** Proibição formal de furação em viga. O tubo pluvial $\varnothing 150\text{ mm}$ deve contornar por baixo da viga com carenamento em drywall ou descer por shaft vertical.
-3. **Cargas de Reservatórios (3.000L) e Boiler (800L) na Cobertura:**
-   - A carga real concentrada atinge $4.650\text{ kgf}$ ($4,65\text{ t}$), com pressão de $1.200\text{ a }1.300\text{ kgf/m²}$ e reações pontuais de até $450\text{ kgf}$ por pé do boiler, superando a sobrecarga genérica de $850\text{ kgf/m²}$ da laje L22.
-   - A laje L22 deve ser executada com painel em concreto maciço, e construídas muretas de apoio alinhadas sobre as vigas portantes V413, V414, V419 e V422 para transmitir as cargas diretamente aos pilares.
+3. **Cargas de Reservatórios (3.000L) e Boiler (800L) na Cobertura Maciça:**
+   - Como a laje de cobertura L22 é **100% maciça de concreto armado**, o risco de esmagamento de blocos de EPS é inexistente, proporcionando elevada rigidez e resistência ao puncionamento.
+   - A carga real concentrada atinge $4.650\text{ kgf}$ ($4,65\text{ t}$), com pressão de $1.200\text{ a }1.300\text{ kgf/m²}$ e reações pontuais de até $450\text{ kgf}$ por pé do boiler.
+   - Devem ser construídas muretas estruturais de apoio em concreto alinhadas diretamente sobre as vigas portantes V413, V414, V419 e V422 para descarregar as reações pontuais dos pés do boiler diretamente nos pilares, evitando flechas diferidas na laje maciça.
 4. **Piscina em Balanço e Geotecnia da Contenção (Revisão R02):**
    - Volume de $13,23\text{ m³}$ ($13,2\text{ t}$) em desnível de 3m. A casa está em estacas $\varnothing 30\text{ cm}$ a 5-7m no impenetrável, enquanto a contenção da piscina tem estacas de $\varnothing 20\text{ cm}$ a apenas 2,5m.
    - Risco de recalque diferencial, torção nas vigas V211/V225/V226 e trinca na cuba da piscina. Exigência de inspeção geotécnica nas estacas, execução rigorosa do dreno PEAD 6" envolto em brita 2/geotêxtil e teste de estanqueidade de 72h com impermeabilização flexível bicomponente.
