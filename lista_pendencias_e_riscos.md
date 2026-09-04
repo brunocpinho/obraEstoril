@@ -8,7 +8,7 @@
   - Corrigir o erro na Varanda Descoberta (projetaram spots de embutir onde não há forro).
 - [x] **Projetos [CONCLUÍDO 03/09/2026]:** Definição do projeto estrutural de fundação e contenção da piscina entregue pela calculista Andréia Sallaberry na Revisão R02 (Pranchas 03 e 30). Atividade ATV-0015 desbloqueada.
 - [ ] **Contratos [URGENTE - VENCE AMANHÃ 04/09/2026]:** Fechar preço final da empreitada de mão de obra de Elétrica (Ronaldo Damaso Ribeiro - ATV-0011) e Hidráulica (Cléber Oliveira - ATV-0012) para assegurar o início das instalações do subsolo em 28/09.
-- [ ] **Engenharia:** Acompanhar armação e montagem de escoramento para a concretagem das vigas e lajes do térreo (Previsto 16/09/2026 - ATV-0014).
+- [ ] **Engenharia [AVANÇO 03/09/2026]:** Laje do térreo com vigotas e EPS montados e malha soldada superior amarrada (inspecionado via vídeo IMG_8143.MOV). Ações imediatas antes da concretagem de 16/09 (ATV-0014): passagem ágil de conduítes/tubulações embutidas, colocação de espaçadores plásticos sob a tela e reforço dos guarda-corpos perimetrais (NR-18).
 - [x] **Financeiro e Compras [AUDITADO 03/09/2026]:**
   - Medição 06 fechada e auditada em R$ 158.254,30 (lajes pré-moldadas Incobráz de R$ 26.800,00 e concreto usinado MG Mix de R$ 13.200,00 validados).
   - Coletas de Setembro homologadas: Coleta 25 (ferramentas MJS) e Coleta 26 (1.870 kg de aço Santa Clara por R$ 12.284,77 faturados na OC ABK-40).

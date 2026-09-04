@@ -52,4 +52,10 @@
 - **Auditoria Financeira Executiva (Planilha de Medição 10):**
   - *Medição 06 (Agosto/2026 - Consolidada):* Fechada no valor total de **R$ 158.254,30** (Subcontratos: R$ 87.648,21 | Mão de Obra direta: R$ 53.650,28 | Adm GLN 12%: R$ 16.955,82). Custos auditados incluem o concreto usinado fck 30 MPa (MG Mix R$ 13.200,00 e Supermix R$ 3.640,00), a laje Incobráz (R$ 26.800,00) e os serviços de carpintaria/fôrmas de Giovani do Carmo e armação de Adilson Caldeira.
   - *Medição 07 (Setembro/2026 - Aberta):* Aberto o faturamento com **R$ 31.465,63** em subcontratos já apropriados, com destaque para a compra do aço Santa Clara (R$ 12.284,77), última parcela da Madeireira Estrela (R$ 8.140,00), andaimes Tupi (R$ 1.148,29) e 4 caçambas WL (R$ 1.800,00).
+- **Evidências em Vídeo de Campo (IMG_8143.MOV - 03/09/2026):** Vistoria visual em alta definição registrando o estágio real de campo:
+  - *Laje do Pavimento Térreo:* Montagem praticamente integral dos painéis de EPS (isopor) entre as vigotas treliçadas (Incobráz). A malha de aço soldada superior de distribuição (Santa Clara Q92) já se encontra posicionada e amarrada sobre toda a extensão da laje. Fôrmas de borda e travamentos laterais instalados. Vigotas treliçadas excedentes organizadas na borda de acesso.
+  - *Subsolo e Escoramento:* Pilares do subsolo totalmente concretados e desformados com excelente aspecto superficial. Estrutura de cimbramento/escoramento com pontaletes de madeira e torres metálicas reguláveis sustentando vigas e painéis de laje para a concretagem.
+  - *Instalações e Talude:* Valas de drenagem com assentamento de tubulação de esgoto pesada em PVC ocre descendo o talude do terreno; talude de corte exposto aguardando contenção da piscina conforme projeto R02 liberado hoje.
+  - *Pontos Críticos para a Concretagem de 16/09:* Necessidade urgente da passagem de eletrodutos de teto e instalações embutidas antes do fechamento total e lançamento do concreto usinado (marco limite de contratação de Elétrica e Hidráulica em 04/09); exigência de pastilhas espaçadoras sob a malha soldada e reforço de guarda-corpos perimetrais de segurança (NR-18).
+
 
