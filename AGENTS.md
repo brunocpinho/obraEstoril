@@ -13,7 +13,8 @@ Toda vez que uma nova conversa, sessão ou interação neste projeto for iniciad
    - Notificar o usuário sobre os impactos no cronograma, custos e engenharia.
 
 ## Verificação Recorrente Diária
-- Uma rotina diária automática está agendada para as **18:00** todos os dias para conferir se a construtora GLN disponibilizou novas medições, notas fiscais, fotos ou pranchas de projeto.
+- Uma rotina diária automática está agendada para as **10:00** e as **18:00** todos os dias para conferir se a construtora GLN disponibilizou novas medições, notas fiscais, fotos, coletas ou pranchas de projeto.
+
 
 ## Diretrizes de Documentação
 - Manter o `diario_de_obra.md` em ordem cronológica estrita.
