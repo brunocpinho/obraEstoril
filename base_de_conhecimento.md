@@ -18,7 +18,7 @@
 - **Programa de Necessidades:**
   - *Social/Térreo:* Sala de Estar, Escritório, Cozinha, Copa, Gourmet e Piscina.
   - *Íntimo/1º Pav:* 3 Suítes, sendo a Master com closet amplo e um "Quarto de Orações" exclusivo anexo à suíte.
-- **Destaques Arquitetônicos:** Fachada moderna e mista. Revestimentos com texturas marcantes de Tijolinho, Pedra Moledo e Madeira Natural. Piso interno unificado com porcelanato Portinari (Gales SBE) e Concreto Polido na garagem. Fosso para Elevador conectando os três níveis.
+- **Destaques Arquitetônicos:** Fachada moderna e mista. Revestimentos com texturas marcantes de Tijolinho, Pedra Moledo e Madeira Natural. Piso unificado com porcelanato de grande formato **1,20x1,20m (Portinari)** para valorização de toda a casa e Concreto Polido na garagem. Fosso para Elevador conectando os três níveis.
 
 ## 3. Topografia, Sondagem e Terraplenagem
 - **Perfil do Solo:** As sondagens SPT (RTS-0011-2026 e 556/22) identificaram impenetrável ao trado/lavagem entre 5,18m e 12,40m. A camada superficial é de argila arenosa com pedregulhos (0 a 0,90m), seguida de solo residual e saprolítico (silte argiloso/filito e silte arenoso) variando de média a dura consistência.
@@ -87,12 +87,12 @@ Os vídeos e fotos provam que a obra física está rigorosamente alinhada ao cro
 - **Apoio e Serviços:** Depósitos e lavanderia bem segregados para não interferir na dinâmica visual da área social.
 
 ### Revestimentos e Acabamentos
-- **Pisos:** O porcelanato **Gales SBE NAT (90x90 da Portinari)** foi eleito para integrar as áreas secas e molhadas da casa. Nas áreas externas (Gourmet/Piscina), optou-se pela versão antiderrapante **Gales SBE HARD**. O subsolo recebeu concreto polido.
+- **Pisos:** O porcelanato foi atualizado para o grande formato **1,20x1,20m (Portinari)** (em substituição ao formato 90x90 original) visando maximizar a amplitude visual, requinte e valorização da casa toda. Aplica-se a versão natural (NAT) para as áreas internas e versão antiderrapante (HARD) para áreas externas e varandas. O subsolo mantém concreto polido na garagem.
 - **Destaques:** A cozinha/lavanderia receberá revestimento texturizado *Khali Zen Gris Matte (10x40)*. A fachada externa combina materiais nobres e sensoriais: **Madeira Natural, Pedra Moledo e Tijolinho**.
 
 ### Alertas de Usabilidade e Estética (Atenção do Proprietário)
 1. **Claraboia da Suíte Master:** Foco potencial de infiltração. Exigir da construtora manta asfáltica criteriosa no requadro.
 2. **Elevador (Profundidade do Fosso):** Resolvido na execução. A engenharia adotou uma medida conservadora e executou o fosso com aproximadamente 1,00m de profundidade (evidenciado em fotos de Agosto/2026), o que atende a grande maioria dos modelos de elevadores convencionais do mercado.
 3. **Lavabo Gourmet (1,64 m²):** Como o espaço é estreito, recomenda-se que a porta abra para fora ou seja de correr embutida para não colidir com o usuário.
-4. **Pisos Grandes em Box:** O porcelanato 90x90 no piso das Suítes 02 e 03 exigirá ralos lineares invisíveis encostados na parede para garantir as quedas de água corretas sem "recortes" (escamas de peixe) feios nas pedras grandes.
+4. **Pisos de Grandes Formatos (1,20x1,20m) e Ralos Lineares:** O formato 1,20x1,20m exige cuidados executivos rigorosos: contrapiso com planicidade milimétrica (<2mm em 2m), dupla colagem obrigatória com argamassa colante AC-III (desempenadeira denteada 10-12mm), niveladores mecânicos (cunhas) e equipe especializada com ventosas para evitar "dentes" (lippage). Nos boxes de todos os banheiros, é mandatória a instalação de ralos lineares no fundo da parede com caimento em plano único, eliminando recortes ("bico de diamante") nas pedras grandes.
 5. **Manutenção da Fachada:** A madeira natural exigirá reaplicação de verniz/stain anualmente para não acinzentar sob o sol.
