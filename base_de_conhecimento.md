@@ -18,12 +18,11 @@ As análises técnicas, financeiras e de evolução física da Obra Estoril base
     - `13 - Relatórios mensais`: Relatórios oficiais de acompanhamento de obra da GLN.
     - `16- Cronograma`: Plano de ações semanais, gargalos e prazos da construtora.
   - **OneDrive Institucional GLN:** `C:\Users\bruno\OneDrive - GLN Engenharia LTDA` (anexos e arquivos corporativos).
-- **2. OneDrive Pessoal:**
-  - **Repositório:** `C:\Users\bruno\OneDrive`
-  - **Pasta da Obra (Proprietário):** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Imoveis Proprios\Casa KeB Estoril`
-    - `Construção\Registros de Fotos e Vídeos`: Fotos e vídeos de vistorias de campo e auditorias visuais.
+- **2. OneDrive Pessoal (Exclusivo da Obra):**
+  - **Caminho Único:** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Imoveis Proprios\Casa KeB Estoril`
+    - `Construção\Registros de Fotos e Vídeos`: Fotos e vídeos de vistorias de campo e auditorias visuais do proprietário.
     - Orçamentos diretos, contratos e documentos do imóvel/obra.
-  - **Atenção (Isolamento de Escopo):** O diretório `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Financeiro\` refere-se exclusivamente a finanças pessoais/domésticas e **NÃO DEVE** ser considerado para o projeto ObraEstoril.
+  - **Nota de Escopo:** Nenhuma outra pasta do OneDrive pessoal (como `Financeiro` ou diretórios familiares) faz parte do escopo da ObraEstoril.
 
 ## 2. Arquitetura e Aprovação (Projeto Casa KeB)
 - **Nome:** Projeto Residencial K&B (Kely e Bruno) - Lote 25C, Quadra 070 (Estoril - BH)

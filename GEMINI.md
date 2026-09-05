@@ -12,11 +12,11 @@ O projeto ObraEstoril utiliza como fontes contínuas de verdade e contexto opera
      - `16- Cronograma` (Plano de ações semanal, gargalos e prazos)
    - **OneDrive Institucional GLN:** `C:\Users\bruno\OneDrive - GLN Engenharia LTDA`
 
-2. **OneDrive Pessoal (Proprietário):**
-   - **Pasta da Obra:** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Imoveis Proprios\Casa KeB Estoril`
+2. **OneDrive Pessoal (Exclusivo da Obra):**
+   - **Caminho Único Autorizado:** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Imoveis Proprios\Casa KeB Estoril`
      - `Construção\Registros de Fotos e Vídeos`: Fotos, vídeos e vistorias de campo do proprietário
      - Orçamentos e contratos diretos da obra
-   - **Isolamento de Escopo:** A pasta `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Financeiro\` contém apenas finanças pessoais/domésticas e **NÃO DEVE** ser considerada para o projeto ObraEstoril. O financeiro da obra concentra-se exclusivamente em `05- Fechamento financeiro Cliente` da GLN e contratos diretos em `Casa KeB Estoril`.
+   - **Isolamento Estrito de Escopo:** Somente a pasta `Casa KeB Estoril` acima deve ser considerada no OneDrive pessoal. Nenhuma outra pasta (como `Financeiro` ou diretórios familiares) faz parte do escopo da ObraEstoril.
 
 ---
 
