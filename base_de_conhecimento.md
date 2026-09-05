@@ -22,8 +22,8 @@ As análises técnicas, financeiras e de evolução física da Obra Estoril base
   - **Repositório:** `C:\Users\bruno\OneDrive`
   - **Pasta da Obra (Proprietário):** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Imoveis Proprios\Casa KeB Estoril`
     - `Construção\Registros de Fotos e Vídeos`: Fotos e vídeos de vistorias de campo e auditorias visuais.
-    - Orçamentos diretos, contratos e documentos pessoais do imóvel.
-  - **Controle Financeiro Pessoal:** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Financeiro\`.
+    - Orçamentos diretos, contratos e documentos do imóvel/obra.
+  - **Atenção (Isolamento de Escopo):** O diretório `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Financeiro\` refere-se exclusivamente a finanças pessoais/domésticas e **NÃO DEVE** ser considerado para o projeto ObraEstoril.
 
 ## 2. Arquitetura e Aprovação (Projeto Casa KeB)
 - **Nome:** Projeto Residencial K&B (Kely e Bruno) - Lote 25C, Quadra 070 (Estoril - BH)

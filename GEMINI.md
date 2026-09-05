@@ -15,8 +15,8 @@ O projeto ObraEstoril utiliza como fontes contínuas de verdade e contexto opera
 2. **OneDrive Pessoal (Proprietário):**
    - **Pasta da Obra:** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Imoveis Proprios\Casa KeB Estoril`
      - `Construção\Registros de Fotos e Vídeos`: Fotos, vídeos e vistorias de campo do proprietário
-     - Orçamentos e contratos diretos
-   - **Controles Financeiros:** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Financeiro\`
+     - Orçamentos e contratos diretos da obra
+   - **Isolamento de Escopo:** A pasta `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Financeiro\` contém apenas finanças pessoais/domésticas e **NÃO DEVE** ser considerada para o projeto ObraEstoril. O financeiro da obra concentra-se exclusivamente em `05- Fechamento financeiro Cliente` da GLN e contratos diretos em `Casa KeB Estoril`.
 
 ---
 
