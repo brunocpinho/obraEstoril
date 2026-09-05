@@ -1,19 +1,23 @@
 # Dashboard - Obra Estoril
 
 **Status Geral:** Em Andamento (Fase de Superestrutura - Bloqueio de Compatibilização Pré-Concretagem)  
-**Última Atualização:** 04/09/2026  
+**Última Atualização:** 05/09/2026  
 **Duração Estimada:** ~20 Meses (Progresso: Setembro/2026)
 
-## Resumo Executivo (Financeiro Auditado)
-- **Avanço Físico:** **7% Realizado** vs 7% Previsto (Aderente à linha de base).
-- **Avanço Financeiro Auditado:**
-  - **Medição 06 (Agosto/2026 - Consolidada):** **R$ 158.254,30** (Subcontratos: R$ 87.648,21 | Mão de Obra direta: R$ 53.650,28 | Adm GLN 12%: R$ 16.955,82).
-  - **Medição 07 (Setembro/2026 - Em Aberto):** **R$ 31.465,63** apropriados em subcontratos (Lote de aço Santa Clara R$ 12.284,77, Madeireira Estrela R$ 8.140,00, locações e caçambas).
-  - **Custo Total Previsto (Base + 12% Adm. GLN):** **R$ 2.422.178,51**.
-- **Projetos e Compatibilização:** Auditoria Multidisciplinar Global 3D/BIM concluída em 04/09/2026 com base no modelo 3D oficial do Sketchfab, arquivo IFC estrutural e isométricos 3D hidrossanitários (Folhas 07 e 16). Mapeadas e mitigadas as principais interferências críticas (veto a furo em viga Ø150mm, sleeves de alimentadores, cambotas de shafts, distanciamento do respiro da claraboia e apoio linear das caixas d'água). Comprovado que o teto da garagem é 100% livre (vigas a 2,76m, forro a 2,60m e esgoto sob o contrapiso). Definidos os acabamentos nobres: porcelanato 1,20x1,20m Portinari para a residência e rocha natural **Maldivas Natural 20x20 cm (TAJ Revestimentos)** para a piscina (Serpentinito Durano® certificado IPT, ancoragem de 780 kgf).
+## Resumo Executivo (Financeiro Auditado e Governança da Trava Global)
+- **Avanço Físico:** **7,0% Realizado** vs 7,0% Previsto (Aderente à linha de base).
+- **Avanço Financeiro Auditado (Trava do Custo Global):**
+  - **Trava do Custo Global Orçada (Base + 12% Adm. GLN):** **R$ 2.422.178,51** (Saldo Restante: **R$ 2.091.416,72** ou 86,34%).
+  - **Realizado Acumulado até Medição 06:** **R$ 330.761,79** (**13,66%** da trava global consumida).
+    - *Mão de Obra Direta Acumulada:* **R$ 94.766,27** (Med 04: R$ 1,5k | Med 05: R$ 39,7k | Med 06: R$ 53,7k).
+    - *Materiais e Subcontratos Acumulados:* **R$ 235.995,52** (incluindo lajes Incobráz R$ 26,8k e aço Santa Clara R$ 12,3k adiantados no canteiro).
+  - **Auditoria de Mão de Obra e Governança ([auditoria_mao_de_obra_e_custo_global.md](file:///C:/Users/bruno/Estoril/auditoria_mao_de_obra_e_custo_global.md)):** No modelo de administração com 12% sobre tudo, a trava de R$ 2,42M é o único limite de controle do proprietário. As taxas de fôrma (R$ 60/m² - Giovani) geraram economia de ~R$ 26,5k frente à composição orçada. A armação de aço (R$ 3,50/kg - Adilson) empata com a linha de base.
+  - **Desvios Oficiais Reportados pela GLN:** Desvio de **R$ 17.966,10 em itens não orçados** (reconhecido no Relatório Mensal de Agosto) gerado por 3 furtos no padrão CEMIG, rocha a <2m em 8 furos que exigiu sapatas e tubulão com escavação manual a R$ 180/m³, gerador e contratação de vigia 24h.
+  - **Ação Crítica de Proteção da Trava:** Limitar empreitadas de Elétrica e Hidráulica aos tetos orçados de **R$ 38.000,00** e **R$ 42.000,00**, e desmobilizar a vigilância humana (R$ 360/dia = R$ 10.800/mês) substituindo-a por alarme monitorado 4G após a concretagem do térreo.
+- **Projetos e Compatibilização:** Auditoria Multidisciplinar Global 3D/BIM concluída com sucesso. Vigas da garagem livres a 2,76m, esgoto sob o piso e sem tubulações no teto. Acabamentos nobres validados: Porcelanato 1,20x1,20m (Portinari) e rocha natural Serpentinito Durano® **Maldivas Natural 20x20 cm (TAJ Revestimentos)** com 780 kgf de ancoragem para a piscina.
 
 ## Prazos Críticos Imediatos (Plano Semanal GLN)
-- **04/09/2026 (Hoje):** Fechar contratação da empreitada de Elétrica (Ronaldo Ribeiro - ATV-0011) e Hidráulica (Cléber Oliveira - ATV-0012).
+- **05/09/2026 (Imediato):** Fechar contratação da empreitada de Elétrica (Ronaldo Ribeiro - ATV-0011 / Teto R$ 38k) e Hidráulica (Cléber Oliveira - ATV-0012 / Teto R$ 42k).
 - **14/09/2026:** Bloqueio mandatório: fixar 2 sleeves de Ø 75/Ø 100 mm do QD2 e todos os tubos-camisa de prumadas/bacias antes do concreto.
 - **16/09/2026:** Concretagem geral das vigas e lajes do pavimento térreo (ATV-0014).
 - **28/09/2026:** Início das infraestruturas hidrossanitárias/elétricas e arrimos do subsolo (ATV-0013).
