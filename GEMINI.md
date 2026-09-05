@@ -39,4 +39,4 @@ Toda vez que uma nova conversa, sessão ou interação neste projeto for iniciad
 - Todas as consultas técnicas ou financeiras sobre a Obra Estoril devem cruzar as medições e projetos da GLN com as vistorias do OneDrive pessoal.
 - Manter o `diario_de_obra.md` em ordem cronológica estrita.
 - Cruzar dados de medições com faturas, notas e ordens de compra auditadas.
-- Sincronizar as alterações de projeto com os commits no Git (`obraEstoril`).
+- Sincronizar as alterações de projeto com os commits no Git (`obraEstoril`). **REGRA ESTRITA:** Sempre que fizer um commit, execute obrigatoriamente o push imediato (`git push`) para manter o repositório GitHub sincronizado sem pendências.
