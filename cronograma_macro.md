@@ -11,7 +11,7 @@
 
 ```
 AVANÇO FÍSICO GLOBAL: [██░░░░░░░░░░░░░░░░░░] 7,0% Realizado vs 7,0% Previsto | Desvio: 0 dias (Aderente à Linha de Base)
-0.0 Fundações e Terra: [████████████████████] 100% Concluído no Prazo
+0.0 Fundações e Terra: [████████████████████] 100% Concluído no Prazo (15/06 a 25/08/2026)
 1.0 Superestrutura:    [███████░░░░░░░░░░░░░] 35%  EM ANDAMENTO (Destaque Atual: Concretagem Térreo em 16/09)
 2.0 a 11.0 Seguintes:  [░░░░░░░░░░░░░░░░░░░░] 0%   A Iniciar a partir de Outubro/2026
 ```
@@ -27,87 +27,42 @@ AVANÇO FÍSICO GLOBAL: [██░░░░░░░░░░░░░░░░�
 
 ---
 
-## 2. Linha do Tempo e Gráfico de Gantt (Flowchart Timeline)
+## 2. Timeline Horizontal Estilo Gantt
 
-```mermaid
-flowchart TD
-    classDef conc fill:#d4edda,stroke:#28a745,stroke-width:2px,color:#155724;
-    classDef andam fill:#cce5ff,stroke:#007bff,stroke-width:3px,color:#004085;
-    classDef alerta fill:#fff3cd,stroke:#ffc107,stroke-width:3px,color:#856404;
-    classDef critico fill:#f8d7da,stroke:#dc3545,stroke-width:3px,color:#721c24;
-    classDef futuro fill:#f8f9fa,stroke:#6c757d,stroke-width:1px,color:#343a40;
-    classDef marco fill:#e2e3e5,stroke:#383d41,stroke-width:2px,color:#1b1e21;
+### A. Gráfico Visual Vetorial (Raias Verticais de Datas e Barras Horizontais de Duração)
 
-    HOJE["📍 POSIÇÃO TEMPORAL: 05/09/2026<br/>Avanço Físico Global: 7,0% Realizado vs 7,0% Previsto<br/>Status Geral: ADERENTE / SEM ATRASO GLOBAL"]:::alerta
+![Timeline Gantt - Casa Estoril](./cronograma_gantt.svg)
 
-    subgraph F0 ["0.0 SERVIÇOS PRELIMINARES E FUNDAÇÕES (100% Concluído - No Prazo)"]
-        A0["15/06 a 25/08/2026: Terraplenagem, Fundações e Cintamento do Subsolo (100% Concluído)"]:::conc
-    end
+---
 
-    subgraph F1 ["★ FASE ATUAL EM DESTAQUE: 1.0 SUPERESTRUTURA (35% Realizado)"]
-        A1_1["1.1/1.2 Fôrmas e Aço da Laje do Térreo (100% Concluído - No Prazo)"]:::conc
-        A1_2["1.3 Tubulações e Sleeves na Laje do Térreo (80% Executado - ATENÇÃO / RISCO DE ATRASO)"]:::andam
-        M1{{"🔴 MARCO CRÍTICO BLOQUEADOR: Concretagem Laje do Térreo (16/09/2026)"}}:::critico
-        A1_3["1.6/1.7 Estrutura do 2º Pavimento: 21/09 a 28/10/2026 (0% - Programado)"]:::futuro
-        A1_4["1.9/1.10 Estrutura Cobertura e Barrilete: 29/10 a 02/12/2026 (0% - Programado)"]:::futuro
-        
-        A1_1 --> A1_2
-        A1_2 --> M1
-        M1 --> A1_3
-        A1_3 --> A1_4
-    end
+### B. Matriz Gantt Horizontal (Raias Verticais Mensais e Duração das Etapas)
 
-    subgraph F2 ["2.0 VEDAÇÕES E 3.0 INSTALAÇÕES BRUTAS (Prev: Out/26 a Fev/27)"]
-        A2["01/10/26 a 25/01/27: Alvenarias, Arrimo Piscina e Shafts (0% - No Prazo)"]:::futuro
-        A3["20/10/26 a 15/02/27: Tubulações Elétricas, Hidráulicas, Gás e Drenos A/C (0%)"]:::futuro
-        M2{{"Teste de Estanqueidade e Pressurização Hidráulica (15/02/2027)"}}:::critico
-        
-        A2 --> A3
-        A3 --> M2
-    end
+> **Legenda das Raias e Barras Horizontais:**
+> * `|` : Raias verticais divisórias de meses (Jun/26 a Out/27).
+> * `Set (HOJE)` : **Posição temporal exata da auditoria (05/09/2026)**.
+> * `████` : **100% Concluído** no prazo.
+> * `█▒▒▒` : **Em Andamento / Destaque Atual** (com % executado).
+> * `░░░░` : **Programado Futuro**.
+> * `♦` : **Marco Crítico Bloqueador** (Concretagem 16/09).
+> * `🏁` : **Marco Final Turnkey** (20/10/2027).
 
-    subgraph F3 ["4.0 PRÉ-ACABAMENTOS E 5.0 ELEVADOR (Prev: Jan a Jun/27)"]
-        A4_1["15/01 a 05/03/27: Impermeabilizações Cobertura e Piscina (0%)"]:::futuro
-        A4_2["15/02 a 05/04/27: Rebocos Internos/Externos e Contramarcos (0%)"]:::futuro
-        A5["01/02 a 25/06/27: Elevador Residencial - Medição, Fábrica (95d) e Montagem (0%)"]:::critico
-        A4_3["25/03 a 20/04/27: Contrapisos Internos - Início da Cura de 28d (0%)"]:::critico
-        
-        A4_1 --> A4_2
-        A4_2 --> A4_3
-    end
-
-    subgraph F4 ["6.0 ESQUADRIAS E 7.0 ACABAMENTOS NOBRES (Prev: Abr a Jul/27)"]
-        A6["05/04 a 25/06/27: Esquadrias de Alumínio e Vidros - Medição e Fábrica 60d (0%)"]:::critico
-        A7_1["20/04 a 25/05/27: Forro de Gesso Drywall e Enfiação Elétrica (0%)"]:::futuro
-        A7_2["20/05 a 05/07/27: Porcelanato 1,20x1,20m e Rocha Piscina TAJ 20x20 (0%)"]:::critico
-        A8_1["15/06 a 20/07/27: Marmoraria - Bancadas e Ilhas Esculpidas (0%)"]:::futuro
-        
-        A4_3 --> A7_2
-        A6 --> A7_2
-        A7_1 --> A8_1
-    end
-
-    subgraph F5 ["8.0 EQUIPAMENTOS, 9.0 MARCENARIA E ENTREGA TURNKEY (Prev: Jun a Out/27)"]
-        A8_2["15/06 a 05/08/27: Boiler 800L, Fotovoltaico, Trocador Piscina e Ar-Condicionado (0%)"]:::futuro
-        A9["20/06 a 15/09/27: Marcenaria de Interiores - Medição Fina, Fábrica (45d) e Montagem (0%)"]:::critico
-        A10["15/08 a 30/09/27: Louças, Metais, Luminotécnico e Pintura Final (0%)"]:::futuro
-        A11["25/09 a 15/10/27: Limpeza Técnica Fina e Comissionamento Integrado (0%)"]:::futuro
-        M_FINAL((("🏁 MARCO FINAL: ENTREGA TURNKEY DAS CHAVES<br/>20/10/2027 (16 Meses Totais de Obra)"))):::marco
-        
-        A8_1 --> A9
-        A7_2 --> A9
-        A9 --> A10
-        A10 --> A11
-        A11 --> M_FINAL
-    end
-
-    HOJE -.-> A1_2
-    A0 ==> A1_1
-    A1_4 ==> A2
-    M2 ==> A4_2
-    A5 ==> A11
-    A8_2 ==> A11
-```
+| ID | Macrofase / Pacote de Trabalho | Avanço | Jun/26 | Jul/26 | Ago/26 | Set/26 (HOJE) | Out/26 | Nov/26 | Dez/26 | Jan/27 | Fev/27 | Mar/27 | Abr/27 | Mai/27 | Jun/27 | Jul/27 | Ago/27 | Set/27 | Out/27 | Status / Observações |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **0.0** | **Fundações e Cintamento Subsolo** | **100%** | ████ | ████ | ████ | | | | | | | | | | | | | | | **Concluído no Prazo** |
+| **1.0** | **Superestrutura de Concreto Armado** | **35%** | | | ████ | █▒▒▒ | ░░░░ | ░░░░ | ░░░░ | | | | | | | | | | | **EM ANDAMENTO (Destaque)** |
+| ↳ | *Tubulações Laje Térreo (Eletrodutos)* | **80%** | | | | █▒▒▒ | | | | | | | | | | | | | | *Atenção / Risco Atraso* |
+| ↳ | *Concretagem Laje Térreo (16/09)* | **0%** | | | | ♦ | | | | | | | | | | | | | | *Marco Crítico (16/09)* |
+| **2.0** | **Alvenarias, Vedações e Shafts** | **0%** | | | | | ░░░░ | ░░░░ | ░░░░ | ░░░░ | | | | | | | | | | Programado (Início Out/26) |
+| **3.0** | **Instalações Prediais Brutas (Elét/Hid/AC)** | **0%** | | | | | ░░░░ | ░░░░ | ░░░░ | ░░░░ | ░░░░ | | | | | | | | | Programado (Teste Fev/27) |
+| **4.0** | **Impermeabilizações e Pré-Acabamentos** | **0%** | | | | | | | | ░░░░ | ░░░░ | ░░░░ | ░░░░ | | | | | | | Programado (Cura 28d) |
+| **5.0** | **Elevador Residencial (Fábrica 95d + Mont)** | **0%** | | | | | | | | | ░░░░ | ░░░░ | ░░░░ | ░░░░ | ░░░░ | | | | | Lead Time Fabril 95d |
+| **6.0** | **Esquadrias de Alumínio e Vidros (60d)** | **0%** | | | | | | | | | | | | ░░░░ | ░░░░ | ░░░░ | | | | Lead Time Fabril 60d |
+| **7.0** | **Forros Drywall e Porcelanatos 1,20x1,20m** | **0%** | | | | | | | | | | | | ░░░░ | ░░░░ | ░░░░ | ░░░░ | | | Pós-Cura 28d Contrapiso |
+| **8.0** | **Marmoraria, Boiler, Solar e Piscina TAJ** | **0%** | | | | | | | | | | | | | | ░░░░ | ░░░░ | | | Programado (Jun-Ago/27) |
+| **9.0** | **Marcenaria de Interiores (Sob Medida)** | **0%** | | | | | | | | | | | | | | ░░░░ | ░░░░ | ░░░░ | ░░░░ | Medição pós-piso e forro |
+| **10.0**| **Louças, Metais, Luminotécnico e Pintura** | **0%** | | | | | | | | | | | | | | | | ░░░░ | ░░░░ | | Programado (Ago-Set/27) |
+| **11.0**| **Comissionamento Geral e Limpeza Fina** | **0%** | | | | | | | | | | | | | | | | | | ░░░░ | ░░░░ | Testes finais integrados |
+| **M** | **ENTREGA FINAL DAS CHAVES (TURNKEY)** | **0%** | | | | | | | | | | | | | | | | | | 🏁 | **20/10/2027 (16 Meses)** |
 
 ---
 
