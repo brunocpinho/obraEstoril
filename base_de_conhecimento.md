@@ -8,6 +8,23 @@
 - **Localização/Cliente:** Bruno e Kelly - Estoril
 - **Construtora:** GLN Engenharia
 
+## 1.1. Fontes de Dados e Diretórios OneDrive (Base de Conhecimento Integrada)
+As análises técnicas, financeiras e de evolução física da Obra Estoril baseiam-se nos dados sincronizados dos seguintes diretórios locais:
+- **1. OneDrive / SharePoint Corporativo GLN:**
+  - **Repositório Principal do Projeto:** `C:\Users\bruno\GLN Engenharia LTDA\Gabriel Paiva Moreira Alves - 22- Bruno e Kelly - Estoril`
+    - `01- Projetos`: Arquitetura, Estrutural, Elétrico, Hidrossanitário e complementares.
+    - `05- Fechamento financeiro Cliente`: Planilhas de medição mensais e fechamentos.
+    - `07- Ordens de compras` & `10 - Coletas`: Cotações de insumos (aço, concreto usinado, lajes).
+    - `13 - Relatórios mensais`: Relatórios oficiais de acompanhamento de obra da GLN.
+    - `16- Cronograma`: Plano de ações semanais, gargalos e prazos da construtora.
+  - **OneDrive Institucional GLN:** `C:\Users\bruno\OneDrive - GLN Engenharia LTDA` (anexos e arquivos corporativos).
+- **2. OneDrive Pessoal:**
+  - **Repositório:** `C:\Users\bruno\OneDrive`
+  - **Pasta da Obra (Proprietário):** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Imoveis Proprios\Casa KeB Estoril`
+    - `Construção\Registros de Fotos e Vídeos`: Fotos e vídeos de vistorias de campo e auditorias visuais.
+    - Orçamentos diretos, contratos e documentos pessoais do imóvel.
+  - **Controle Financeiro Pessoal:** `C:\Users\bruno\OneDrive\Bruno\Documentos pessoais\Financeiro\`.
+
 ## 2. Arquitetura e Aprovação (Projeto Casa KeB)
 - **Nome:** Projeto Residencial K&B (Kely e Bruno) - Lote 25C, Quadra 070 (Estoril - BH)
 - **Metragens (Área Total ~330m²):**
