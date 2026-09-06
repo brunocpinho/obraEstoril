@@ -77,11 +77,11 @@ for i, (m_label, m_date) in enumerate(months):
 svg.append(f'<line x1="{margin_left + chart_width:.1f}" y1="{header_height-25}" x2="{margin_left + chart_width:.1f}" y2="{header_height + 16 * row_height}" stroke="#e2e8f0" stroke-width="1" />')
 
 tasks = [
-    ("0.0 Fundações e Cintamento Subsolo", datetime.date(2026, 6, 15), datetime.date(2026, 8, 25), "100%", "url(#gradDone)", "#155724", "Concluído"),
-    ("1.0 Superestrutura de Concreto Armado", datetime.date(2026, 8, 26), datetime.date(2026, 12, 12), "35%", "url(#gradActive)", "#004085", "Em Andamento"),
+    ("0.0 Fundações e Contenções (ICO 5)", datetime.date(2026, 6, 15), datetime.date(2026, 8, 25), "100%", "url(#gradDone)", "#155724", "102% Finan"),
+    ("1.0 Superestrutura de Concreto (ICO 6)", datetime.date(2026, 8, 26), datetime.date(2026, 12, 12), "35%", "url(#gradActive)", "#004085", "43% Finan"),
     ("  ↳ Tubulações Laje Térreo (Eletrodutos)", datetime.date(2026, 9, 4), datetime.date(2026, 9, 15), "80%", "url(#gradAlert)", "#721c24", "Risco Atraso"),
     ("  ↳ Marco: Concretagem Laje Térreo", datetime.date(2026, 9, 16), datetime.date(2026, 9, 16), "16/Set", "#dc2626", "#ffffff", "Marco Crítico"),
-    ("2.0 Alvenarias, Vedações e Shafts", datetime.date(2026, 10, 1), datetime.date(2027, 1, 25), "0%", "url(#gradFuture)", "#334155", "Programado"),
+    ("2.0 Alvenarias, Vedações e Shafts (ICO 7)", datetime.date(2026, 10, 1), datetime.date(2027, 1, 25), "0%", "url(#gradFuture)", "#334155", "Programado"),
     ("3.0 Instalações Prediais Brutas (Elét/Hid/AC)", datetime.date(2026, 10, 20), datetime.date(2027, 2, 15), "0%", "url(#gradFuture)", "#334155", "Programado"),
     ("4.0 Impermeabilizações e Pré-Acabamentos", datetime.date(2027, 1, 15), datetime.date(2027, 4, 25), "0%", "url(#gradFuture)", "#334155", "Programado"),
     ("5.0 Elevador Residencial (Fábrica 95d + Mont)", datetime.date(2027, 4, 1), datetime.date(2027, 8, 20), "0%", "url(#gradFuture)", "#334155", "Pronto 20/Ago"),

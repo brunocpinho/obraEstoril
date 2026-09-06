@@ -6,14 +6,14 @@
 
 ## Resumo Executivo (Financeiro Auditado e Governança da Trava Global)
 - **Avanço Físico:** **7,0% Realizado** vs 7,0% Previsto (Aderente à linha de base).
-- **Avanço Financeiro Auditado (Trava do Custo Global):**
-  - **Trava do Custo Global Orçada (Base + 12% Adm. GLN):** **R$ 2.422.178,51** (Saldo Restante: **R$ 2.091.416,72** ou 86,34%).
-  - **Realizado Acumulado até Medição 06:** **R$ 330.761,79** (**13,66%** da trava global consumida).
-    - *Mão de Obra Direta Acumulada:* **R$ 94.766,27** (Med 04: R$ 1,5k | Med 05: R$ 39,7k | Med 06: R$ 53,7k).
-    - *Materiais e Subcontratos Acumulados:* **R$ 235.995,52** (incluindo lajes Incobráz R$ 26,8k e aço Santa Clara R$ 12,3k adiantados no canteiro).
-  - **Auditoria de Mão de Obra e Governança ([auditoria_mao_de_obra_e_custo_global.md](file:///C:/Users/bruno/Estoril/auditoria_mao_de_obra_e_custo_global.md)):** No modelo de administração com 12% sobre tudo, a trava de R$ 2,42M é o único limite de controle do proprietário. As taxas de fôrma (R$ 60/m² - Giovani) geraram economia de ~R$ 26,5k frente à composição orçada. A empreitada de Elétrica (Ronaldo Ribeiro - ATV-0011) foi homologada em **R$ 26.500,00**, gerando mais **R$ 11.500,00 de economia** frente ao teto de R$ 38.000,00. O saldo acumulado de economia contratual é de **~R$ 38.000,00**, neutralizando integralmente o desvio inicial de R$ 17.966,10 em itens não orçados.
-  - **Desvios Oficiais Reportados pela GLN:** Desvio de **R$ 17.966,10 em itens não orçados** (reconhecido no Relatório Mensal de Agosto) gerado por 3 furtos no padrão CEMIG, rocha a <2m em 8 furos que exigiu sapatas e tubulão com escavação manual a R$ 180/m³, gerador e contratação de vigia 24h (totalmente absorvido pelas economias de fôrmas e elétrica).
-  - **Ação Crítica de Proteção da Trava:** Travar a empreitada de Hidráulica (ATV-0012) no teto orçado de **R$ 42.000,00**, e desmobilizar a vigilância humana (R$ 360/dia = R$ 10.800/mês) substituindo-a por alarme monitorado 4G após a concretagem do térreo.
+- **Avanço Financeiro Auditado (Trava do Custo Global - Medição 10):**
+  - **Trava do Custo Global Orçada (Base + 12% Adm. GLN):** **R$ 2.422.178,51** (Saldo Restante: **R$ 2.074.505,06** ou 85,65%).
+  - **Realizado Acumulado até Medição 10 (15/10/2026):** **R$ 347.673,44** (**14,35%** da trava global consumida).
+    - *Mão de Obra Direta Acumulada:* **R$ 94.766,27** (27,3% dos desembolsos).
+    - *Materiais e Subcontratos Acumulados:* **R$ 252.907,18** (72,7% dos desembolsos - lajes Incobráz R$ 26,8k quitadas, aço Santa Clara R$ 40,3k e madeira/fôrmas R$ 47,6k).
+  - **Auditoria de Mão de Obra e Governança ([auditoria_mao_de_obra_e_custo_global.md](file:///C:/Users/bruno/Estoril/auditoria_mao_de_obra_e_custo_global.md)):** No modelo de administração com 12% sobre tudo, a trava de R$ 2,42M é o único limite de controle do proprietário. O pacote de economias conquistadas soma **~R$ 62.500,00** (Lajes Incobráz: R$ 24,5k abaixo do orçado; Fôrmas com Giovani: ~R$ 26,5k de economia; Empreitada de Elétrica com Ronaldo Ribeiro: R$ 11,5k de economia). Esse montante amortece integralmente o desvio inicial de R$ 17.966,10 em itens não orçados decorrentes de ocorrências de canteiro.
+  - **Desvios Oficiais Reportados pela GLN:** Desvio de **R$ 17.966,10 em itens não orçados** gerado por 3 furtos no padrão CEMIG, rocha rasa em 8 furos que exigiu sapatas, gerador e contratação de vigia 24h (totalmente neutralizado pelas economias conquistadas).
+  - **Ação Crítica de Proteção da Trava:** Travar a empreitada de Hidráulica (ATV-0012) no teto orçado de **R$ 42.000,00**, e desmobilizar a vigilância física humana (R$ 360/dia = R$ 10.800/mês) substituindo-a por alarme monitorado 4G após a concretagem do térreo.
 - **Projetos e Compatibilização:** Auditoria Multidisciplinar Global 3D/BIM concluída com sucesso. Vigas da garagem livres a 2,76m, esgoto sob o piso e sem tubulações no teto. Acabamentos nobres validados: Porcelanato 1,20x1,20m (Portinari) e rocha natural Serpentinito Durano® **Maldivas Natural 20x20 cm (TAJ Revestimentos)** com 780 kgf de ancoragem para a piscina.
 
 ## Prazos Críticos Imediatos (Plano Semanal GLN)
