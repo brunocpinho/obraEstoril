@@ -84,6 +84,52 @@ Todas as rotinas de auditoria, conciliação e aprendizado contínuo baseiam-se 
     - **Área Permeável Mínima:** `98,45 m²`
     - **Vagas de Garagem:** 1 vaga mínima legal (com capacidade real executada para 2 a 3 veículos leves).
 
+### 2.2.1. Auditoria e Análise da Metragem Real Construída vs. Alvará PBH
+A aprovação do Alvará PBH (311,38 m²) seguiu a estrita regulamentação urbanística municipal (Plano Diretor de BH - Lei 11.181/2019 e Código de Edificações), na qual áreas descobertas (piscinas, decks, solários e varandas abertas), beirais de cobertura e compartimentos técnicos enterrados/subsolo não entram no cômputo fiscal da área construída privativa coberta. 
+
+A auditoria multidisciplinar do Projeto Executivo de Arquitetura (`PROJARQ_EXECUTIVO_V5`), do Caderno de Revestimentos (`PROJARQ_REVESTIMENTOS_JUNHO26`) e do Projeto Estrutural BIM (`Andréia Sallaberry`) demonstra a real envergadura física da obra em 3 níveis de análise:
+
+#### A. Quadro de Áreas Úteis Reais por Ambiente (Piso a Piso Acabado)
+1. **Subsolo (Cota -3,22m):**
+   - Garagem Coberta: `46,53 m²` (concreto polido)
+   - Depósito: `4,63 m²`
+   - Circulação e Escada de Acesso: `17,65 m²` (porcelanato Gales NAT)
+   - Casa de Máquinas da Piscina e Barrilete Inferior: `10,22 m²` *(não computada no alvará simplificado)*
+   - Caixa e Fosso do Elevador: `~2,50 m²`
+   - **Subtotal Útil Subsolo:** **`81,53 m²`** *(Superfície pavimentada total com rampas: `91,27 m²`)*
+2. **Pavimento Térreo Social e Lazer (Cota -0,06m / 0,00m):**
+   - *Ambientes Cobertos:* Sala de Estar (`17,60 m²`), Copa/Jantar (`14,39 m²`), Cozinha Integrada (`18,55 m²`), Espaço Gourmet Coberto (`14,29 m²`), Escritório/Quarto Térreo (`12,35 m²`), Banheiro 01 (`3,87 m²`), Lavabo Social (`1,64 m²`), Circulação/Hall Elevador (`2,68 m²`), Lavanderia Coberta (`7,66 m²`), Circulação Serviço (`1,84 m²`), Escada Interna (`7,54 m²`), Elevador (`2,50 m²`).
+     - **Subtotal Térreo Coberto Útil:** **`104,91 m²`**
+   - *Ambientes Abertos de Lazer / Descobertos:*
+     - **Varanda Externa / Solário Gourmet (Porcelanato Gales HARD 90x90 / 120x120):** **`43,33 m²`**
+     - **Piscina e Prainha (Lâmina d'água / Projeção horizontal da cuba):** **`9,45 m²`** *(Área total revestida da piscina com fundo de 9,34 m² + paredes de 19,09 m² em rocha Maldivas Natural = 28,43 m²)*
+     - Acessos externos técnicos / rampa de serviço (concreto polido): **`6,45 m²`**
+     - **Subtotal Térreo Lazer Aberto:** **`59,23 m²`**
+   - **Total Superfície Térreo (Coberto + Gales HARD + Piscina):** **`164,14 m²`**
+3. **1º Pavimento Superior Íntimo (Cota +3,36m):**
+   - *Ambientes Cobertos:* Suíte Master (`12,96 m²`), Closet Master (`10,13 m²`), Banheiro Master com hidro/claraboia (`8,05 m²`), Suíte 02 (`13,89 m²`), Banheiro Suíte 02 (`3,87 m²`), Suíte 03 (`13,89 m²`), Banheiro Suíte 03 (`3,87 m²`), Circulação Íntima (`15,36 m²`), Quarto de Orações (`4,34 m²`), Despensa/Rouparia (`2,92 m²`), Escada Superior (`7,34 m²`), Elevador (`2,50 m²`).
+     - **Subtotal 1º Pavimento Coberto Útil:** **`99,12 m²`**
+   - *Ambiente Aberto Descoberto:*
+     - **Varanda Descoberta da Suíte Master (Porcelanato Gales HARD):** **`6,06 m²`**
+   - **Total Superfície 1º Pavimento (Coberto + Varanda Gales HARD):** **`105,18 m²`**
+4. **Cobertura Técnica e Topo (+6,74m a +7,44m):**
+   - Barrilete, Plataforma dos Reservatórios (3.000L + Boiler 800L) e Topo do Elevador: **`22,92 m²`**
+
+#### B. Síntese Comparativa das Metragens Físicas
+| Métrica / Dimensão de Análise | Área (m²) | Descrição e Composição |
+| :--- | :---: | :--- |
+| **1. Área Aprovada em Alvará (PBH)** | **311,38 m²** | Cômputo estritamente fiscal municipal: Subsolo (75,70 m²) + Térreo (121,95 m²) + 1º Pav (113,73 m²), sem áreas abertas. |
+| **2. Área Útil Interna Coberta dos Cômodos** | **308,48 m²** | Soma das áreas líquidas dos compartimentos fechados (sem paredes), incluindo Subsolo, Térreo, 1º Pav e Áreas Técnicas. |
+| **3. Áreas Abertas / Lazer (Gales Hard + Piscina + Rampas)** | **65,29 m²** | Varandas/Decks em Porcelanato Gales HARD (49,39 m²) + Piscina/Prainha (9,45 m²) + Acessos em concreto (6,45 m²). |
+| **4. Área Bruta Construída Coberta Real (com paredes)** | **~329,80 m²** | Área fechada de fora a fora das alvenarias e pilares de 15 a 20cm (Subsolo: ~88,50 m² + Térreo: ~124,80 m² + 1º Pav: ~116,50 m²). |
+| **5. ÁREA CONSTRUÍDA TOTAL REAL (Coberta Bruta + Gales Hard + Piscina)** | **`395,09 m²`** | **Metragem real total física que está sendo edificada (aproximadamente `395 a 400 m²`), superando o alvará em 83,71 m² (+26,9%).** |
+| **6. Superfície Estrutural Total Executada (Lajes + Subsolo + Piscina)** | **`520,16 m²`** | Lajes Maciças Incobráz P25 (427,25 m²: Cobertura 170,10m², Térreo 137,60m², 1º Pav 117,63m², Topo 1,92m²) + Radier Subsolo (80,41 m²) + Cuba Piscina (12,50 m²). |
+
+#### C. Destaque dos Elementos Solicitados:
+- **Total Pisos Porcelanato Gales HARD (Portinari):** **`49,39 m²`** *(Térreo: 43,33 m² | 1º Pavimento: 6,06 m²)*.
+- **Piscina e Prainha:** **`9,45 m²`** de espelho d'água / projeção de cuba (e **`28,43 m²`** de superfície revestida de fundo e paredes em rocha Maldivas Natural Taj).
+- **Casa de Máquinas da Piscina:** **`10,22 m²`** executados no subsolo, em alvenaria estrutural grauteada adjacente à contenção R02.
+
 ### 2.3. Cadastro Nacional de Obras (Receita Federal do Brasil)
 - **Número de Inscrição CNO:** `90.029.55603/68`
 - **Data de Cadastramento:** 13/07/2026 via Portal e-CAC
