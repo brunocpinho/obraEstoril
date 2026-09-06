@@ -16,7 +16,7 @@
 | **1.0 Superestrutura de Concreto Armado** | 35% | 35% | **EM ANDAMENTO / EM DESTAQUE** (Fôrmas e aço do Térreo 100%) |
 | ↳ *Ponto Crítico Imediato (Gargalo)* | 100% até 14/09 | 80% em 05/09 | **Atenção / Risco de Atraso** (Concluir tubulações de laje antes do concreto) |
 | ↳ *Marco Mandatório da Estrutura* | 16/09/2026 | Programado | **Sem Atraso** (Concretagem Laje do Térreo confirmada para 16/09) |
-| **2.0 a 11.0 Etapas Seguintes** | 0% | 0% | **Dentro da Janela Prevista** (Início das vedações em Out/2026) |
+| **2.0 a 12.0 Etapas Seguintes** | 0% | 0% | **Dentro da Janela Prevista** (Início das vedações em Out/2026) |
 
 ---
 
@@ -85,23 +85,28 @@
 | 7.3 | Assentamento de Porcelanatos Grandes Formatos 1,20x1,20m nos Pisos | 20/05/2027 | 05/07/2027 | 46 dias | 0% | Não Iniciado |
 | 7.4 | Revestimento da Piscina com Rocha Natural Serpentinito 20x20 TAJ | 20/05/2027 | 20/06/2027 | 31 dias | 0% | Não Iniciado |
 | 7.5 | Revestimentos Cerâmicos de Paredes em Áreas Molhadas (Banhos/Cozinha) | 25/05/2027 | 30/06/2027 | 36 dias | 0% | Não Iniciado |
-| **8.0** | **MARMORARIA, EQUIPAMENTOS ESPECIAIS E ENERGIA** | **15/06/2027** | **05/08/2027** | **51 dias** | **0%** | **Não Iniciado (No Prazo)** |
-| 8.1 | Marmoraria: Medição com Moldes, Corte e Instalação de Bancadas e Ilhas | 15/06/2027 | 20/07/2027 | 35 dias | 0% | Não Iniciado |
-| 8.2 | Aquecimento Central: Instalação do Boiler 800L, Aquecedores a Gás e Bombas | 15/06/2027 | 10/07/2027 | 25 dias | 0% | Não Iniciado |
-| 8.3 | Microgeração Fotovoltaica: Fixação de Módulos, Inversor e Homologação CEMIG | 20/06/2027 | 20/07/2027 | 30 dias | 0% | Não Iniciado |
-| 8.4 | Equipamentos da Piscina: Filtro, Bombas, Iluminação LED e Trocador de Calor | 01/07/2027 | 25/07/2027 | 24 dias | 0% | Não Iniciado |
-| 8.5 | Climatização: Instalação de Evaporadoras, Condensadoras, Vácuo e Carga de Gás | 10/07/2027 | 05/08/2027 | 26 dias | 0% | Não Iniciado |
-| **9.0** | **MARCENARIA DE INTERIORES (SOB MEDIDA)** | **20/06/2027** | **15/09/2027** | **87 dias** | **0%** | **Não Iniciado (No Prazo)** |
-| 9.1 | Medição Fina Milimétrica no Local (Após Piso, Forro e Bancadas Concluídos) | 20/06/2027 | 05/07/2027 | 15 dias | 0% | Não Iniciado |
-| 9.2 | Fabricação em Fábrica de Móveis (Cortes CNC, Bordas e Ferragens) | 06/07/2027 | 20/08/2027 | 45 dias | 0% | Não Iniciado |
-| 9.3 | Montagem em Obra: Cozinha, Closets Master, Banhos, Rouparia e Painéis | 21/08/2027 | 15/09/2027 | 25 dias | 0% | Não Iniciado |
-| **10.0** | **ACABAMENTOS FINAIS, PINTURA E LUMINOTÉCNICO** | **15/08/2027** | **30/09/2027** | **46 dias** | **0%** | **Não Iniciado (No Prazo)** |
-| 10.1 | Instalação de Louças Sanitárias, Metais, Chuveiros e Acessórios | 15/08/2027 | 05/09/2027 | 21 dias | 0% | Não Iniciado |
-| 10.2 | Montagem de Luminárias, Spots, Perfis de LED e Espelhos de Tomada/Interruptores | 25/08/2027 | 15/09/2027 | 21 dias | 0% | Não Iniciado |
-| 10.3 | Pintura Final de Tetos e Paredes (Demãos Finais e Correções Pós-Marcenaria) | 10/09/2027 | 30/09/2027 | 20 dias | 0% | Não Iniciado |
-| 10.4 | Calafetações com Silicone, Rejuntes Epóxi e Vedações Finais de Esquadrias/Boxes | 15/09/2027 | 30/09/2027 | 15 dias | 0% | Não Iniciado |
-| **11.0** | **COMISSIONAMENTO, LIMPEZA E ENTREGA TURNKEY** | **25/09/2027** | **20/10/2027** | **25 dias** | **0%** | **Não Iniciado (No Prazo)** |
-| 11.1 | Limpeza Técnica Profissional Pós-Obra (Grossa e Fina) | 25/09/2027 | 07/10/2027 | 12 dias | 0% | Não Iniciado |
-| 11.2 | Comissionamento Integrado dos Sistemas (Elevador, Solar, Piscina, Boiler e A/C) | 05/10/2027 | 15/10/2027 | 10 dias | 0% | Não Iniciado |
-| 11.3 | Vistoria Técnica Final com os Proprietários e Entrega Oficial das Chaves | 16/10/2027 | 20/10/2027 | 4 dias | 0% | Não Iniciado |
+| **8.0** | **REVESTIMENTOS EXTERNOS, BEIRAIS EM ACM E PINTURA DE FACHADAS** | **25/04/2027** | **10/07/2027** | **76 dias** | **0%** | **Não Iniciado (No Prazo)** |
+| 8.1 | Assentamento de Pedra Madeira Off-White / Moledo (Muros, Pórticos e Fachadas) | 25/04/2027 | 05/06/2027 | 42 dias | 0% | Não Iniciado |
+| 8.2 | Assentamento de Plaquinhas de Tijolinho (Panos de Fachada e Gourmet) | 05/05/2027 | 05/06/2027 | 31 dias | 0% | Não Iniciado |
+| 8.3 | Instalação de Forro dos Beirais em Painéis de ACM Amadeirado (Subestrutura de Alumínio) | 15/05/2027 | 15/06/2027 | 31 dias | 0% | Não Iniciado |
+| 8.4 | Pintura Externa Emborrachada e Texturas (Coral Sol & Chuva ou Suvinil Proteção Total) | 05/06/2027 | 10/07/2027 | 35 dias | 0% | Não Iniciado |
+| **9.0** | **MARMORARIA, EQUIPAMENTOS ESPECIAIS E ENERGIA** | **15/06/2027** | **05/08/2027** | **51 dias** | **0%** | **Não Iniciado (No Prazo)** |
+| 9.1 | Marmoraria: Medição com Moldes, Corte e Instalação de Bancadas e Ilhas | 15/06/2027 | 20/07/2027 | 35 dias | 0% | Não Iniciado |
+| 9.2 | Aquecimento Central: Instalação do Boiler 800L, Aquecedores a Gás e Bombas | 15/06/2027 | 10/07/2027 | 25 dias | 0% | Não Iniciado |
+| 9.3 | Microgeração Fotovoltaica: Fixação de Módulos, Inversor e Homologação CEMIG | 20/06/2027 | 20/07/2027 | 30 dias | 0% | Não Iniciado |
+| 9.4 | Equipamentos da Piscina: Filtro, Bombas, Iluminação LED e Trocador de Calor | 01/07/2027 | 25/07/2027 | 24 dias | 0% | Não Iniciado |
+| 9.5 | Climatização: Instalação de Evaporadoras, Condensadoras, Vácuo e Carga de Gás | 10/07/2027 | 05/08/2027 | 26 dias | 0% | Não Iniciado |
+| **10.0** | **MARCENARIA DE INTERIORES (SOB MEDIDA)** | **20/06/2027** | **15/09/2027** | **87 dias** | **0%** | **Não Iniciado (No Prazo)** |
+| 10.1 | Medição Fina Milimétrica no Local (Após Piso, Forro e Bancadas Concluídos) | 20/06/2027 | 05/07/2027 | 15 dias | 0% | Não Iniciado |
+| 10.2 | Fabricação em Fábrica de Móveis (Cortes CNC, Bordas e Ferragens) | 06/07/2027 | 20/08/2027 | 45 dias | 0% | Não Iniciado |
+| 10.3 | Montagem em Obra: Cozinha, Closets Master, Banhos, Rouparia e Painéis | 21/08/2027 | 15/09/2027 | 25 dias | 0% | Não Iniciado |
+| **11.0** | **ACABAMENTOS FINAIS, PINTURA INTERNA E LUMINOTÉCNICO** | **15/08/2027** | **30/09/2027** | **46 dias** | **0%** | **Não Iniciado (No Prazo)** |
+| 11.1 | Instalação de Louças Sanitárias, Metais, Chuveiros e Acessórios | 15/08/2027 | 05/09/2027 | 21 dias | 0% | Não Iniciado |
+| 11.2 | Montagem de Luminárias, Spots, Perfis de LED e Espelhos de Tomada/Interruptores | 25/08/2027 | 15/09/2027 | 21 dias | 0% | Não Iniciado |
+| 11.3 | Pintura Final Interna de Tetos e Paredes (Demãos Finais e Correções Pós-Marcenaria) | 10/09/2027 | 30/09/2027 | 20 dias | 0% | Não Iniciado |
+| 11.4 | Calafetações com Silicone, Rejuntes Epóxi e Vedações Finais de Esquadrias/Boxes | 15/09/2027 | 30/09/2027 | 15 dias | 0% | Não Iniciado |
+| **12.0** | **COMISSIONAMENTO, LIMPEZA E ENTREGA TURNKEY** | **25/09/2027** | **20/10/2027** | **25 dias** | **0%** | **Não Iniciado (No Prazo)** |
+| 12.1 | Limpeza Técnica Profissional Pós-Obra (Grossa e Fina) | 25/09/2027 | 07/10/2027 | 12 dias | 0% | Não Iniciado |
+| 12.2 | Comissionamento Integrado dos Sistemas (Elevador, Solar, Piscina, Boiler e A/C) | 05/10/2027 | 15/10/2027 | 10 dias | 0% | Não Iniciado |
+| 12.3 | Vistoria Técnica Final com os Proprietários e Entrega Oficial das Chaves | 16/10/2027 | 20/10/2027 | 4 dias | 0% | Não Iniciado |
 | **MARCO** | **ENTREGA FINAL DAS CHAVES (TURNKEY)** | **20/10/2027** | **20/10/2027** | **—** | **0%** | **Marco Final de Entrega** |

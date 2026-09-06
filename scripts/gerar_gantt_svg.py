@@ -3,9 +3,9 @@ import datetime
 width = 1200
 row_height = 36
 header_height = 80
-margin_left = 330
-chart_width = 820
-height = header_height + 15 * row_height + 65
+margin_left = 345
+chart_width = 805
+height = header_height + 16 * row_height + 65
 
 start_date = datetime.date(2026, 6, 1)
 end_date = datetime.date(2027, 10, 31)
@@ -69,12 +69,12 @@ for i, (m_label, m_date) in enumerate(months):
     w_m = x2 - x1
     
     fill = '#f8fafc' if i % 2 == 0 else '#ffffff'
-    total_grid_h = 15 * row_height + 25
+    total_grid_h = 16 * row_height + 25
     svg.append(f'<rect x="{x1:.1f}" y="{header_height-25}" width="{w_m:.1f}" height="{total_grid_h}" fill="{fill}" />')
-    svg.append(f'<line x1="{x1:.1f}" y1="{header_height-25}" x2="{x1:.1f}" y2="{header_height + 15 * row_height}" stroke="#e2e8f0" stroke-width="1" />')
+    svg.append(f'<line x1="{x1:.1f}" y1="{header_height-25}" x2="{x1:.1f}" y2="{header_height + 16 * row_height}" stroke="#e2e8f0" stroke-width="1" />')
     svg.append(f'<text x="{x1 + w_m/2:.1f}" y="{header_height-8}" font-size="11" font-weight="700" fill="#475569" text-anchor="middle">{m_label}</text>')
 
-svg.append(f'<line x1="{margin_left + chart_width:.1f}" y1="{header_height-25}" x2="{margin_left + chart_width:.1f}" y2="{header_height + 15 * row_height}" stroke="#e2e8f0" stroke-width="1" />')
+svg.append(f'<line x1="{margin_left + chart_width:.1f}" y1="{header_height-25}" x2="{margin_left + chart_width:.1f}" y2="{header_height + 16 * row_height}" stroke="#e2e8f0" stroke-width="1" />')
 
 tasks = [
     ("0.0 Fundações e Cintamento Subsolo", datetime.date(2026, 6, 15), datetime.date(2026, 8, 25), "100%", "url(#gradDone)", "#155724", "Concluído"),
@@ -87,10 +87,11 @@ tasks = [
     ("5.0 Elevador Residencial (Fábrica 95d + Mont)", datetime.date(2027, 2, 1), datetime.date(2027, 6, 25), "0%", "url(#gradFuture)", "#334155", "Lead Time 95d"),
     ("6.0 Esquadrias de Alumínio e Vidros (60d)", datetime.date(2027, 4, 5), datetime.date(2027, 6, 25), "0%", "url(#gradFuture)", "#334155", "Lead Time 60d"),
     ("7.0 Forros Gesso e Porcelanatos 1,20x1,20m", datetime.date(2027, 4, 20), datetime.date(2027, 7, 5), "0%", "url(#gradFuture)", "#334155", "Pós-Cura 28d"),
-    ("8.0 Marmoraria, Boiler, Solar e Piscina TAJ", datetime.date(2027, 6, 15), datetime.date(2027, 8, 5), "0%", "url(#gradFuture)", "#334155", "Programado"),
-    ("9.0 Marcenaria de Interiores (Sob Medida)", datetime.date(2027, 6, 20), datetime.date(2027, 9, 15), "0%", "url(#gradFuture)", "#334155", "Fábrica 45d"),
-    ("10.0 Louças, Metais, Luminotécnico e Pintura", datetime.date(2027, 8, 15), datetime.date(2027, 9, 30), "0%", "url(#gradFuture)", "#334155", "Programado"),
-    ("11.0 Comissionamento Geral e Limpeza Fina", datetime.date(2027, 9, 25), datetime.date(2027, 10, 15), "0%", "url(#gradFuture)", "#334155", "Programado"),
+    ("8.0 Revest. Externos, Beirais ACM e Pintura Fachadas", datetime.date(2027, 4, 25), datetime.date(2027, 7, 10), "0%", "url(#gradFuture)", "#334155", "Pedra/Tijolo/ACM"),
+    ("9.0 Marmoraria, Boiler, Solar e Piscina TAJ", datetime.date(2027, 6, 15), datetime.date(2027, 8, 5), "0%", "url(#gradFuture)", "#334155", "Programado"),
+    ("10.0 Marcenaria de Interiores (Sob Medida)", datetime.date(2027, 6, 20), datetime.date(2027, 9, 15), "0%", "url(#gradFuture)", "#334155", "Fábrica 45d"),
+    ("11.0 Louças, Metais, Luminotécnico e Pintura", datetime.date(2027, 8, 15), datetime.date(2027, 9, 30), "0%", "url(#gradFuture)", "#334155", "Programado"),
+    ("12.0 Comissionamento Geral e Limpeza Fina", datetime.date(2027, 9, 25), datetime.date(2027, 10, 15), "0%", "url(#gradFuture)", "#334155", "Programado"),
     ("★ ENTREGA FINAL DAS CHAVES (TURNKEY)", datetime.date(2027, 10, 16), datetime.date(2027, 10, 20), "16 Meses", "url(#gradKey)", "#78350f", "20/10/2027"),
 ]
 
@@ -154,4 +155,4 @@ svg.append('</svg>')
 output_path = r'C:\Users\bruno\Estoril\cronograma_gantt.svg'
 with open(output_path, 'w', encoding='utf-8') as f:
     f.write('\n'.join(svg))
-print(f'Gantt SVG successfully generated at {output_path}')
+print(f'Gantt SVG successfully regenerated at {output_path}')
