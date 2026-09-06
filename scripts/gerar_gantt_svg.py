@@ -84,7 +84,7 @@ tasks = [
     ("2.0 Alvenarias, Vedações e Shafts", datetime.date(2026, 10, 1), datetime.date(2027, 1, 25), "0%", "url(#gradFuture)", "#334155", "Programado"),
     ("3.0 Instalações Prediais Brutas (Elét/Hid/AC)", datetime.date(2026, 10, 20), datetime.date(2027, 2, 15), "0%", "url(#gradFuture)", "#334155", "Programado"),
     ("4.0 Impermeabilizações e Pré-Acabamentos", datetime.date(2027, 1, 15), datetime.date(2027, 4, 25), "0%", "url(#gradFuture)", "#334155", "Programado"),
-    ("5.0 Elevador Residencial (Fábrica 95d + Mont)", datetime.date(2027, 2, 1), datetime.date(2027, 6, 25), "0%", "url(#gradFuture)", "#334155", "Lead Time 95d"),
+    ("5.0 Elevador Residencial (Fábrica 95d + Mont)", datetime.date(2027, 4, 1), datetime.date(2027, 8, 20), "0%", "url(#gradFuture)", "#334155", "Pronto 20/Ago"),
     ("6.0 Esquadrias de Alumínio e Vidros (60d)", datetime.date(2027, 4, 5), datetime.date(2027, 6, 25), "0%", "url(#gradFuture)", "#334155", "Lead Time 60d"),
     ("7.0 Forros Gesso e Porcelanatos 1,20x1,20m", datetime.date(2027, 4, 20), datetime.date(2027, 7, 5), "0%", "url(#gradFuture)", "#334155", "Pós-Cura 28d"),
     ("8.0 Revest. Externos, Beirais ACM e Pintura Fachadas", datetime.date(2027, 4, 25), datetime.date(2027, 7, 10), "0%", "url(#gradFuture)", "#334155", "Pedra/Tijolo/ACM"),

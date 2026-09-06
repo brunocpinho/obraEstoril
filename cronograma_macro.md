@@ -70,11 +70,11 @@
 | 4.5 | Chumbamento e Nivelamento de Contramarcos de Esquadrias | 01/03/2027 | 25/03/2027 | 24 dias | 0% | Não Iniciado |
 | 4.6 | Execução dos Contrapisos Internos e Caimentos para Ralos | 25/03/2027 | 20/04/2027 | 26 dias | 0% | Não Iniciado |
 | 4.7 | Período de Cura Normativa dos Contrapisos (28 dias p/ Grandes Formatos) | 21/04/2027 | 19/05/2027 | 28 dias | 0% | Não Iniciado |
-| **5.0** | **ELEVADOR RESIDENCIAL (3 PARADAS)** | **01/02/2027** | **25/06/2027** | **144 dias** | **0%** | **Não Iniciado (Gatilho: Jan/27)** |
-| 5.1 | Medição de Prumo do Shaft e Validação do Fosso de 1,00m do Subsolo | 01/02/2027 | 10/02/2027 | 9 dias | 0% | Não Iniciado |
-| 5.2 | Fabricação Fabril do Elevador, Guias, Pistão/Máquina e Cabina (Lead Time) | 11/02/2027 | 25/05/2027 | 103 dias | 0% | Não Iniciado |
-| 5.3 | Montagem Mecânica dos Trilhos, Cabina, Contrapeso e Portas | 26/05/2027 | 15/06/2027 | 20 dias | 0% | Não Iniciado |
-| 5.4 | Ligação Elétrica ao QD1, Parametrização, Comissionamento e ART | 16/06/2027 | 25/06/2027 | 9 dias | 0% | Não Iniciado |
+| **5.0** | **ELEVADOR RESIDENCIAL (3 PARADAS)** | **01/04/2027** | **20/08/2027** | **142 dias** | **0%** | **Não Iniciado (Pronto 2 meses antes do Turnkey)** |
+| 5.1 | Medição de Prumo do Shaft e Validação do Fosso de 1,00m do Subsolo | 01/04/2027 | 10/04/2027 | 10 dias | 0% | Não Iniciado |
+| 5.2 | Fabricação Fabril do Elevador, Guias, Pistão/Máquina e Cabina (Lead Time) | 11/04/2027 | 20/07/2027 | 101 dias | 0% | Não Iniciado |
+| 5.3 | Montagem Mecânica dos Trilhos, Cabina, Contrapeso e Portas | 21/07/2027 | 10/08/2027 | 21 dias | 0% | Não Iniciado |
+| 5.4 | Ligação Elétrica ao QD1, Parametrização, Comissionamento e ART | 11/08/2027 | 20/08/2027 | 10 dias | 0% | Não Iniciado |
 | **6.0** | **ESQUADRIAS DE ALUMÍNIO E VIDROS** | **05/04/2027** | **25/06/2027** | **81 dias** | **0%** | **Não Iniciado (No Prazo)** |
 | 6.1 | Medição Fina em Obra dos Vãos Rebocados com Contramarcos | 05/04/2027 | 15/04/2027 | 10 dias | 0% | Não Iniciado |
 | 6.2 | Fabricação Fabril dos Caixilhos de Alumínio e Vidros Laminados/Temperados | 16/04/2027 | 10/06/2027 | 55 dias | 0% | Não Iniciado |
